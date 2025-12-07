@@ -1,0 +1,19 @@
+{
+  "trained_date": "2025-12-05 14:57",
+  "accuracy": "100.0%",
+  "dataset_size": 1000,
+  "top_features": [
+    {
+      "Feature": "English Average",
+      "Importance": 0.9052268108163651
+    },
+    {
+      "Feature": "Education Level",
+      "Importance": 0.029875137456386505
+    },
+    {
+      "Feature": "Test Preparation",
+      "Importance": 0.021908275611103985
+    }
+  ]
+}
