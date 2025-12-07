@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "model_type": "advanced_dual_algorithms",
+    "trained_date": "2025-12-05T16:02:50.183290",
+    "dataset": {
+      "size": 1000,
+      "performance_distribution": {
+        "satisfactory": 619,
+        "at_risk": 224,
+        "high_achiever": 157
+      },
+      "avg_english_score": 68.22375,
+      "std_english_score": 11.418417302375632,
+      "features_used": 9
+    }
+  },
+  "evaluation_metrics": {
+    "random_forest_classifier": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "cross_validation": {
+        "mean_accuracy": 1.0,
+        "std_accuracy": 0.0,
+        "cv_scores": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "feature_importance": [
+        {
+          "Feature": "English Average",
+          "Importance": 0.8616775697065363
+        },
+        {
+          "Feature": "Attendance Rate",
+          "Importance": 0.037923202831146044
+        },
+        {
+          "Feature": "Tutoring",
+          "Importance": 0.021388765825705203
+        },
+        {
+          "Feature": "Education Level",
+          "Importance": 0.016840122815120533
+        },
+        {
+          "Feature": "Study Time",
+          "Importance": 0.010724553105563082
+        },
+        {
+          "Feature": "Gender",
+          "Importance": 0.0076535312654778505
+        },
+        {
+          "Feature": "Absences",
+          "Importance": 0.006071973838279303
+        }
+      ]
+    },
+    "random_forest_regressor": {
+      "primary_metrics": {
+        "r_squared": 0.9984106412919976,
+        "rmse": 0.4609617946676842
+      },
+      "secondary_metrics": {
+        "mae": 0.07189248917748994,
+        "explained_variance": 0.9984139518900838,
+        "mse": 0.2124857761432523
+      },
+      "cross_validation": {
+        "mean_r2": 0.9990290186325552,
+        "std_r2": 0.0006483692689640308,
+        "cv_scores": [
+          0.9987473903108659,
+          0.999639236306841,
+          0.9984330931209776,
+          0.9999562142467912,
+          0.9983691591773005
+        ]
+      },
+      "error_statistics": {
+        "mean_residual": -0.021038133116882952,
+        "std_residual": 0.4616369966560487,
+        "error_distribution": {
+          "Excellent (\u00b15 points)": 199,
+          "Good (\u00b110 points)": 1,
+          "Fair (\u00b115 points)": 0,
+          "Poor (>15 points)": 0
+        }
+      },
+      "feature_importance": [
+        {
+          "Feature": "English Average",
+          "Importance": 0.9997412571079152
+        },
+        {
+          "Feature": "Attendance Rate",
+          "Importance": 0.00016996007990201185
+        },
+        {
+          "Feature": "Absences",
+          "Importance": 1.9308649317914695e-05
+        },
+        {
+          "Feature": "Study Time",
+          "Importance": 1.444774224228585e-05
+        },
+        {
+          "Feature": "Tutoring",
+          "Importance": 1.3501424063633853e-05
+        },
+        {
+          "Feature": "Gender",
+          "Importance": 3.3994358132916684e-06
+        },
+        {
+          "Feature": "Education Level",
+          "Importance": 1.2295647337447498e-06
+        }
+      ]
+    },
+    "linear_regression": {
+      "primary_metrics": {
+        "r_squared": 1.0,
+        "rmse": 1.468478862807415e-14
+      },
+      "secondary_metrics": {
+        "mae": 1.1457501614131616e-14,
+        "explained_variance": 1.0,
+        "mse": 2.156430170512158e-28
+      },
+      "cross_validation": {
+        "mean_r2": 1.0,
+        "std_r2": 0.0,
+        "cv_scores": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "coefficients": [
+        {
+          "Feature": "English Average",
+          "Coefficient": 1.000000000000001
+        },
+        {
+          "Feature": "Education Level",
+          "Coefficient": -1.6878859421254333e-15
+        },
+        {
+          "Feature": "Study Time",
+          "Coefficient": -1.3760063990910255e-15
+        },
+        {
+          "Feature": "Gender",
+          "Coefficient": 1.0477729794899915e-15
+        },
+        {
+          "Feature": "Absences",
+          "Coefficient": -1.1102230246251565e-16
+        },
+        {
+          "Feature": "Attendance Rate",
+          "Coefficient": 5.551115123125783e-17
+        },
+        {
+          "Feature": "Tutoring",
+          "Coefficient": -2.7755575615628914e-17
+        },
+      ],
+      "intercept": -7.105427357601002e-14,
+      "error_statistics": {
+        "mean_residual": -3.819167204710538e-15,
+        "std_residual": 1.4215038357005407e-14
+      }
+    }
+  },
+  "mappings": {
+    "app_to_model": {
+      "studyTimePerWeek": "study_time_encoded",
+      "absences": "absence_encoded",
+      "studentEducation": "education_encoded",
+      "gender": "Gender_encoded",
+      "englishAvg": "english_avg",
+      "tutoring": "has_tutoring",
+      "attendanceRate": "Attendance Rate (%)"
+    },
+    "study_time": {
+      "2_to_5": 0,
+      "5_to_10": 1,
+      "less_than_2": 2,
+      "more_than_10": 3
+    },
+    "absences": {
+      "1_to_5": 0,
+      "6_to_10": 1,
+      "more_than_10": 2,
+      "none": 3
+    },
+    "gender": {
+      "Male": 0,
+      "Female": 1
+    },
+    "tutoring": {
+      "Prepared": 1,
+      "Not Prepared": 0
+    },
+    "education": {
+      "bachelors": 0,
+      "masters": 1,
+      "secondary": 2
+    }
+  },
+  "encoders": {
+    "Gender": {
+      "classes": [
+        "Female",
+        "Male"
+      ]
+    },
+    "education": {
+      "classes": [
+        "bachelors",
+        "masters",
+        "secondary"
+      ]
+    },
+    "study_time": {
+      "classes": [
+        "2_to_5",
+        "5_to_10",
+        "less_than_2",
+        "more_than_10"
+      ]
+    },
+    "absence": {
+      "classes": [
+        "1_to_5",
+        "6_to_10",
+        "more_than_10",
+        "none"
+      ]
+    },
+
+  },
+  "performance_thresholds": {
+    "at_risk": {
+      "max_score": 59.9,
+      "description": "Needs intensive support"
+    },
+    "satisfactory": {
+      "min_score": 60,
+      "max_score": 79.9,
+      "description": "Performing adequately"
+    },
+    "high_achiever": {
+      "min_score": 80,
+      "description": "Excelling academically"
+    }
+  },
+  "model_selection_recommendation": {
+    "classification_task": "random_forest_classifier",
+    "regression_task": "random_forest_regressor",
+    "reason": "Higher R\u00b2 and better cross-validation scores",
+    "confidence_level": "high"
+  }
+}

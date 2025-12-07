@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "model_type": "RandomForest",
+    "training_accuracy": 1.0,
+    "testing_accuracy": 0.995,
+    "n_features": 9,
+    "feature_names": [
+      "Study Time",
+      "Absences",
+      "Education Level",
+      "Gender",
+      "Attendance Rate",
+      "English Score",
+      "Tutoring",
+
+    ],
+    "features_original": [
+      "study_time_encoded",
+      "absence_encoded",
+      "education_encoded",
+      "Gender_encoded",
+      "Attendance Rate (%)",
+      "english_avg",
+      "has_tutoring",
+
+    ],
+    "classes": [
+      "at_risk",
+      "high_achiever",
+      "satisfactory"
+    ],
+    "trained_date": "2025-12-03T14:48:14.675057",
+    "dataset": {
+      "size": 1000,
+      "performance_distribution": {
+        "satisfactory": 619,
+        "at_risk": 224,
+        "high_achiever": 157
+      },
+      "avg_english_score": 68.22375,
+      "features_used": 9
+    }
+  },
+  "model": {
+    "feature_importance": {
+      "Study Time": 0.010388648980397854,
+      "Absences": 0.005699213336508967,
+      "Education Level": 0.018015608827617997,
+      "Gender": 0.009101891794721529,
+      "Attendance Rate": 0.032179745708587136,
+      "English Score": 0.8673717525832488,
+      "Tutoring": 0.02160463947506329,
+     
+    },
+    "n_estimators": 50,
+    "max_depth": 8,
+    "feature_importance_raw": [
+      {
+        "Feature": "English Score",
+        "Importance": 0.8673717525832488
+      },
+      {
+        "Feature": "Attendance Rate",
+        "Importance": 0.032179745708587136
+      },
+      {
+        "Feature": "Tutoring",
+        "Importance": 0.02160463947506329
+      },
+      {
+        "Feature": "Education Level",
+        "Importance": 0.018015608827617997
+      },
+      {
+        "Feature": "Study Time",
+        "Importance": 0.010388648980397854
+      },
+
+      {
+        "Feature": "Gender",
+        "Importance": 0.009101891794721529
+      },
+      {
+        "Feature": "Absences",
+        "Importance": 0.005699213336508967
+      }
+    ]
+  },
+  "mappings": {
+    "app_to_model": {
+      "studyTimePerWeek": "study_time_encoded",
+      "absences": "absence_encoded",
+      "studentEducation": "education_encoded",
+      "gender": "Gender_encoded",
+      "previousGrade": "english_avg",
+      "tutoring": "has_tutoring",
+      "attendanceRate": "Attendance Rate (%)"
+    },
+    "study_time": {
+      "less_than_2": 0,
+      "2_to_5": 1,
+      "5_to_10": 2,
+      "more_than_10": 3
+    },
+    "absences": {
+      "none": 3,
+      "1_to_5": 2,
+      "6_to_10": 1,
+      "more_than_10": 0
+    },
+    "gender": {
+      "Male": 0,
+      "Female": 1
+    },
+    "tutoring": {
+      "Prepared": 1,
+      "Not Prepared": 0
+    },
+    "education": {
+      "bachelors": 0,
+      "masters": 1,
+      "secondary": 2
+    }
+  },
+  "encoders": {
+    "Gender": {
+      "classes": [
+        "Female",
+        "Male"
+      ]
+    },
+    "education": {
+      "classes": [
+        "bachelors",
+        "masters",
+        "secondary"
+      ]
+    },
+    "study_time": {
+      "classes": [
+        "2_to_5",
+        "5_to_10",
+        "less_than_2",
+        "more_than_10"
+      ]
+    },
+    "absence": {
+      "classes": [
+        "1_to_5",
+        "6_to_10",
+        "more_than_10",
+        "none"
+      ]
+    },
+  },
+  "thresholds": {
+    "at_risk": 0.33,
+    "satisfactory": 0.66,
+    "high_achiever": 0.99
+  },
+  "stats": {
+    "avg_english_score": 68.22375,
+    "avg_attendance": 64.741,
+    "avg_study_hours": 4.84
+  }
+}

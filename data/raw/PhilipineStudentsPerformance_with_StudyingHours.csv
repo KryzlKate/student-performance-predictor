@@ -1,0 +1,1001 @@
+﻿Student ID,Gender,Region,Attendance Rate (%),Degree Program,Lunch Type,Test Prep,Speaking,Reading,Writing,Listening,Studying Hours
+AX2025001,Female,Laguna,55,Bachelors,Free,Not Prepared,72,72,74,72,6
+AX2025001,Female,Quirino,30,Junior High School,Free,Prepared,69,90,88,77,3
+AM2025001,Female,Occidental Mindoro,75,Masters,Discounted,Not Prepared,90,95,93,54,10
+AD2025001,Male,Aurora,61,PhD,Standard,Not Prepared,47,57,44,89,7
+AX2025001,Male,Cavite,62,Junior High School,Standard,Not Prepared,76,78,75,83,4
+AD2025002,Female,Batangas,78,PhD,Standard,Not Prepared,71,83,78,49,6
+AX2025001,Female,Quirino,67,Junior High School,Free,Prepared,88,95,92,87,9
+AX2025001,Male,Cagayan,74,Junior High School,Discounted,Not Prepared,40,43,39,49,2
+SH2025001,Male,Nueva Vizcaya,79,Senior High School,Standard,Prepared,64,64,67,77,6
+SH2025002,Female,Ilocos Norte,64,Senior High School,Discounted,Not Prepared,38,60,50,74,10
+AD2025003,Male,Ilocos Norte,62,PhD,Free,Not Prepared,58,54,52,75,10
+AD2025004,Male,Bulacan,63,PhD,Standard,Not Prepared,40,52,43,89,7
+SH2025003,Female,Isabela,35,Senior High School,Discounted,Not Prepared,65,81,73,51,4
+AX2025001,Male,Bataan,86,Junior High School,Free,Prepared,78,72,70,83,3
+AM2025002,Female,Palawan,77,Masters,Standard,Not Prepared,50,53,58,82,7
+AS2025001,Female,Camarines Norte,63,Associate,Standard,Not Prepared,69,75,78,51,7
+SH2025004,Male,Aurora,51,Senior High School,Free,Not Prepared,88,89,86,89,2
+AS2025002,Female,Oriental Mindoro,100,Associate,Free,Not Prepared,18,32,28,48,5
+AM2025003,Male,Rizal,68,Masters,Discounted,Prepared,46,42,46,76,4
+AD2025005,Female,Ilocos Norte,95,PhD,Standard,Not Prepared,54,58,61,88,1
+SH2025005,Male,Bataan,84,Senior High School,Discounted,Not Prepared,66,69,63,81,7
+AX2025001,Female,Pangasinan,30,Junior High School,Free,Prepared,65,75,70,45,5
+AX2025001,Male,Zambales,76,Junior High School,Free,Not Prepared,44,54,53,72,1
+AS2025003,Female,Ilocos Norte,64,Associate,Standard,Not Prepared,69,73,73,78,4
+AX2025001,Male,Albay,55,Bachelors,Discounted,Prepared,74,71,80,83,0
+AM2025004,Male,Masbate,45,Masters,Free,Not Prepared,73,74,72,44,9
+AX2025001,Male,Oriental Mindoro,90,Junior High School,Free,Not Prepared,69,54,55,50,5
+AX2025001,Female,Laguna,50,Bachelors,Discounted,Not Prepared,67,69,75,69,8
+SH2025006,Male,Masbate,74,Senior High School,Discounted,Not Prepared,70,70,65,57,0
+AM2025005,Female,Rizal,70,Masters,Standard,Not Prepared,62,70,75,90,10
+AX2025001,Female,La Union,62,Junior High School,Standard,Not Prepared,69,74,74,40,10
+AX2025001,Female,Marinduque,49,Junior High School,Standard,Not Prepared,63,65,61,64,9
+AM2025006,Female,Bulacan,83,Masters,Standard,Not Prepared,56,72,65,87,2
+AX2025001,Male,Nueva Vizcaya,30,Junior High School,Discounted,Not Prepared,40,42,38,99,6
+AX2025001,Male,Romblon,86,Junior High School,Free,Not Prepared,97,87,82,55,3
+AD2025006,Male,La Union,37,PhD,Free,Prepared,81,81,79,50,8
+AD2025007,Female,Occidental Mindoro,43,PhD,Standard,Not Prepared,74,81,83,95,2
+AS2025004,Female,Marinduque,82,Associate,Discounted,Not Prepared,50,64,59,61,4
+AD2025008,Female,Sorsogon,48,PhD,Standard,Prepared,75,90,88,96,2
+AD2025009,Male,Camarines Norte,73,PhD,Standard,Not Prepared,57,56,57,46,6
+AD2025010,Male,Laguna,64,PhD,Free,Not Prepared,55,61,54,83,4
+AD2025011,Female,Albay,66,PhD,Standard,Not Prepared,58,73,68,76,8
+AD2025012,Female,La Union,58,PhD,Discounted,Not Prepared,53,58,65,70,6
+AX2025001,Male,Aurora,91,Junior High School,Discounted,Prepared,59,65,66,79,1
+AD2025013,Female,Albay,56,PhD,Discounted,Not Prepared,50,56,54,79,3
+AD2025014,Male,Batangas,32,PhD,Free,Not Prepared,65,54,57,53,8
+AD2025015,Female,Isabela,39,PhD,Discounted,Prepared,55,65,62,47,1
+SH2025007,Female,Ilocos Norte,94,Senior High School,Free,Not Prepared,66,71,76,48,9
+AD2025016,Female,La Union,62,PhD,Discounted,Prepared,57,74,76,58,8
+SH2025008,Male,Oriental Mindoro,46,Senior High School,Standard,Prepared,82,84,82,50,9
+AX2025001,Male,Pampanga,55,Junior High School,Discounted,Not Prepared,53,55,48,60,4
+AD2025017,Male,Pampanga,33,PhD,Standard,Prepared,77,69,68,60,1
+AX2025001,Male,Marinduque,39,Junior High School,Free,Not Prepared,53,44,42,42,3
+SH2025009,Male,Laguna,76,Senior High School,Standard,Not Prepared,88,78,75,90,6
+AS2025005,Female,Camarines Norte,30,Associate,Discounted,Prepared,71,84,87,75,7
+SH2025010,Female,Bulacan,58,Senior High School,Discounted,Not Prepared,33,41,43,48,2
+AD2025018,Female,Cavite,69,PhD,Free,Prepared,82,85,86,79,0
+AD2025019,Male,Albay,98,PhD,Free,Not Prepared,52,55,49,68,3
+AX2025001,Male,Occidental Mindoro,86,Junior High School,Free,Prepared,58,59,58,70,1
+AS2025006,Female,Nueva Ecija,36,Associate,Free,Not Prepared,0,17,10,87,7
+AX2025001,Male,Ilocos Sur,64,Bachelors,Standard,Prepared,79,74,72,88,3
+AS2025007,Male,Sorsogon,56,Associate,Discounted,Not Prepared,39,39,34,98,1
+AD2025020,Male,Sorsogon,37,PhD,Free,Not Prepared,62,61,55,94,5
+AD2025021,Female,Quezon,40,PhD,Discounted,Not Prepared,69,80,71,48,5
+AS2025008,Female,Masbate,41,Associate,Free,Not Prepared,59,58,59,60,9
+AS2025009,Male,Aurora,68,Associate,Free,Not Prepared,67,64,61,69,3
+AS2025010,Male,Aurora,31,Associate,Free,Not Prepared,45,37,37,63,5
+AX2025001,Female,Sorsogon,54,Junior High School,Discounted,Not Prepared,60,72,74,58,1
+AD2025022,Male,Catanduanes,68,PhD,Free,Not Prepared,61,58,56,55,9
+AD2025023,Female,Pampanga,33,PhD,Standard,Not Prepared,39,64,57,80,1
+AX2025001,Female,Marinduque,54,Junior High School,Standard,Prepared,58,63,73,48,9
+AX2025001,Male,La Union,53,Junior High School,Discounted,Prepared,63,55,63,62,3
+AD2025024,Female,Quezon,83,PhD,Discounted,Not Prepared,41,51,48,66,7
+AS2025011,Male,Cagayan,57,Associate,Standard,Not Prepared,61,57,56,75,6
+AS2025012,Male,Masbate,89,Associate,Discounted,Not Prepared,49,49,41,68,8
+AD2025025,Male,Batanes,61,PhD,Standard,Not Prepared,44,41,38,62,7
+AS2025013,Male,Catanduanes,95,Associate,Standard,Not Prepared,30,26,22,57,4
+AX2025001,Male,Aurora,49,Bachelors,Standard,Prepared,80,78,81,62,1
+AS2025014,Female,Ilocos Norte,93,Associate,Standard,Prepared,61,74,72,47,4
+AM2025007,Female,Batanes,76,Masters,Standard,Not Prepared,62,68,68,79,7
+AD2025026,Female,Oriental Mindoro,81,PhD,Discounted,Not Prepared,47,49,50,78,9
+SH2025011,Male,Zambales,99,Senior High School,Free,Not Prepared,49,45,45,47,8
+AX2025001,Male,Isabela,81,Junior High School,Standard,Prepared,50,47,54,95,8
+AD2025027,Male,Rizal,52,PhD,Discounted,Not Prepared,72,64,63,48,0
+SH2025012,Male,Camarines Norte,85,Senior High School,Discounted,Not Prepared,42,39,34,75,8
+AX2025001,Female,Zambales,64,Junior High School,Free,Not Prepared,73,80,82,44,6
+AX2025001,Female,Isabela,32,Junior High School,Discounted,Not Prepared,76,83,88,85,8
+AD2025028,Female,Aurora,70,PhD,Free,Not Prepared,71,71,74,50,7
+AX2025001,Female,Cavite,31,Junior High School,Discounted,Not Prepared,58,70,67,43,0
+AS2025015,Female,Oriental Mindoro,100,Associate,Standard,Not Prepared,73,86,82,72,7
+AX2025001,Female,Pangasinan,34,Bachelors,Standard,Not Prepared,65,72,74,40,7
+SH2025013,Male,Pampanga,96,Senior High School,Standard,Not Prepared,27,34,36,98,10
+SH2025014,Male,Aurora,69,Senior High School,Discounted,Not Prepared,71,79,71,68,2
+AD2025029,Male,Camarines Norte,93,PhD,Standard,Prepared,43,45,50,92,0
+AX2025001,Female,Quezon,59,Junior High School,Discounted,Not Prepared,79,86,92,46,7
+AD2025030,Male,Ilocos Sur,58,PhD,Free,Prepared,78,81,82,61,2
+AS2025016,Male,Romblon,72,Associate,Free,Prepared,65,66,62,78,2
+AX2025001,Female,Bataan,75,Junior High School,Free,Prepared,63,72,70,70,0
+AX2025001,Female,La Union,45,Junior High School,Standard,Not Prepared,58,67,62,87,10
+AX2025001,Female,Aurora,70,Bachelors,Discounted,Not Prepared,65,67,62,79,4
+AX2025001,Male,Masbate,93,Junior High School,Free,Not Prepared,79,67,67,56,9
+AX2025001,Male,Ilocos Norte,48,Bachelors,Discounted,Prepared,68,74,74,78,6
+AD2025031,Female,Tarlac,60,PhD,Standard,Not Prepared,85,91,89,50,9
+SH2025015,Male,Rizal,77,Senior High School,Discounted,Prepared,60,44,47,57,8
+AX2025001,Male,Isabela,30,Junior High School,Discounted,Prepared,98,86,90,68,6
+AX2025001,Female,Laguna,32,Junior High School,Standard,Not Prepared,58,67,72,41,8
+AM2025008,Female,Aurora,35,Masters,Discounted,Not Prepared,87,100,100,64,7
+AD2025032,Male,Occidental Mindoro,79,PhD,Standard,Prepared,66,63,64,80,1
+AD2025033,Female,Pangasinan,73,PhD,Discounted,Not Prepared,52,76,70,97,0
+AS2025017,Female,Batangas,86,Associate,Standard,Not Prepared,70,64,72,54,6
+AD2025034,Female,Sorsogon,40,PhD,Standard,Prepared,77,89,98,64,6
+SH2025016,Male,Laguna,86,Senior High School,Free,Not Prepared,62,55,49,51,7
+AD2025035,Male,Quezon,47,PhD,Free,Not Prepared,54,53,47,80,4
+AX2025001,Female,La Union,96,Junior High School,Discounted,Not Prepared,51,58,54,75,2
+AX2025001,Female,Ilocos Sur,48,Bachelors,Free,Prepared,99,100,100,58,7
+SH2025017,Male,Oriental Mindoro,77,Senior High School,Free,Not Prepared,84,77,74,82,5
+AX2025001,Female,Nueva Ecija,60,Bachelors,Free,Not Prepared,75,85,82,71,10
+AX2025001,Female,Cagayan,80,Bachelors,Standard,Not Prepared,78,82,79,96,2
+AS2025018,Female,Marinduque,58,Associate,Free,Not Prepared,51,63,61,76,0
+AX2025001,Female,Bulacan,30,Junior High School,Discounted,Not Prepared,55,69,65,72,2
+AX2025001,Female,Ilocos Norte,41,Bachelors,Discounted,Prepared,79,92,89,80,4
+AD2025036,Male,La Union,60,PhD,Standard,Prepared,91,89,92,54,2
+AX2025001,Female,Masbate,48,Junior High School,Standard,Prepared,88,93,93,66,0
+SH2025018,Male,Sorsogon,32,Senior High School,Standard,Not Prepared,63,57,56,81,4
+AX2025001,Male,Nueva Vizcaya,73,Junior High School,Free,Not Prepared,83,80,73,48,9
+SH2025019,Female,Rizal,91,Senior High School,Standard,Not Prepared,87,95,86,64,6
+AS2025019,Male,Nueva Ecija,93,Associate,Free,Not Prepared,72,68,67,69,6
+AX2025001,Male,Camarines Sur,89,Junior High School,Discounted,Prepared,65,77,74,50,10
+AM2025009,Male,Pampanga,68,Masters,Free,Not Prepared,82,82,74,48,8
+AX2025001,Female,Camarines Sur,99,Bachelors,Discounted,Not Prepared,51,49,51,79,9
+AM2025010,Male,Oriental Mindoro,79,Masters,Standard,Not Prepared,89,84,82,94,9
+AS2025020,Male,Pampanga,91,Associate,Free,Prepared,53,37,40,96,2
+AX2025001,Male,Tarlac,53,Junior High School,Free,Prepared,87,74,70,46,6
+AX2025001,Female,Aurora,89,Junior High School,Discounted,Prepared,75,81,84,46,0
+AX2025001,Male,Batangas,55,Bachelors,Standard,Prepared,74,79,75,49,3
+AX2025001,Male,Camarines Sur,55,Bachelors,Standard,Not Prepared,58,55,48,86,3
+AS2025021,Male,Palawan,39,Associate,Standard,Prepared,51,54,41,65,4
+SH2025020,Male,Rizal,57,Senior High School,Standard,Not Prepared,70,55,56,67,6
+AD2025037,Female,Nueva Vizcaya,35,PhD,Free,Not Prepared,59,66,67,92,6
+AX2025001,Male,Laguna,70,Junior High School,Standard,Prepared,71,61,69,44,10
+AS2025022,Female,Masbate,83,Associate,Discounted,Not Prepared,76,72,71,86,3
+AX2025001,Female,Pampanga,65,Junior High School,Discounted,Not Prepared,59,62,64,74,6
+AX2025001,Female,Bulacan,40,Junior High School,Discounted,Prepared,42,55,54,71,10
+SH2025021,Male,Pangasinan,70,Senior High School,Discounted,Not Prepared,57,43,47,83,2
+AX2025001,Male,Laguna,98,Junior High School,Standard,Not Prepared,88,73,78,97,5
+AX2025001,Female,Cagayan,36,Junior High School,Standard,Not Prepared,22,39,33,76,1
+AS2025023,Male,Occidental Mindoro,93,Associate,Free,Not Prepared,88,84,75,89,9
+AD2025038,Male,Batangas,47,PhD,Discounted,Not Prepared,73,68,66,59,8
+AX2025001,Female,Isabela,33,Bachelors,Standard,Prepared,68,75,81,84,4
+AD2025039,Male,Sorsogon,61,PhD,Free,Prepared,100,100,93,100,5
+AS2025024,Male,Romblon,30,Associate,Free,Prepared,62,67,69,67,3
+AX2025001,Male,Albay,31,Bachelors,Standard,Not Prepared,77,67,68,54,10
+AD2025040,Female,Ilocos Sur,48,PhD,Free,Prepared,59,70,66,84,9
+AX2025001,Male,Pangasinan,71,Bachelors,Free,Not Prepared,54,49,47,81,6
+AS2025025,Male,Ilocos Sur,48,Associate,Standard,Not Prepared,62,67,61,95,8
+AX2025001,Female,Rizal,57,Junior High School,Discounted,Prepared,70,89,88,65,6
+SH2025022,Female,Cavite,71,Senior High School,Discounted,Prepared,66,74,78,84,0
+AX2025001,Male,La Union,98,Junior High School,Discounted,Not Prepared,60,60,60,79,0
+AD2025041,Female,Ilocos Sur,69,PhD,Discounted,Prepared,61,86,87,53,8
+AD2025042,Male,Aurora,75,PhD,Free,Not Prepared,66,62,64,70,10
+AD2025043,Male,Nueva Ecija,93,PhD,Free,Prepared,82,78,74,59,8
+AX2025001,Female,Laguna,63,Junior High School,Standard,Prepared,75,88,85,89,3
+AM2025011,Male,Isabela,39,Masters,Standard,Not Prepared,49,53,52,92,8
+SH2025023,Male,Cagayan,71,Senior High School,Standard,Not Prepared,52,53,49,43,2
+AM2025012,Female,Marinduque,54,Masters,Free,Not Prepared,81,92,91,50,6
+AX2025001,Female,Ilocos Sur,91,Bachelors,Standard,Prepared,96,100,100,44,5
+SH2025024,Male,Camarines Sur,87,Senior High School,Free,Prepared,53,51,51,94,7
+AM2025013,Female,Cagayan,85,Masters,Standard,Prepared,58,76,78,40,10
+SH2025025,Female,Cavite,91,Senior High School,Discounted,Prepared,68,83,78,47,8
+AX2025001,Female,Palawan,93,Junior High School,Free,Prepared,67,75,70,85,4
+SH2025026,Male,Cavite,57,Senior High School,Discounted,Prepared,72,73,74,91,0
+AS2025026,Male,Catanduanes,64,Associate,Standard,Not Prepared,94,88,78,41,2
+AX2025001,Female,Pangasinan,43,Junior High School,Standard,Not Prepared,79,86,81,68,9
+AD2025044,Female,Albay,87,PhD,Standard,Not Prepared,63,67,70,78,7
+AX2025001,Female,Laguna,67,Bachelors,Free,Prepared,43,51,54,43,10
+AM2025014,Female,Nueva Vizcaya,64,Masters,Discounted,Prepared,81,91,87,79,5
+SH2025027,Female,Ilocos Norte,99,Senior High School,Discounted,Prepared,46,54,58,80,7
+AD2025045,Female,Marinduque,35,PhD,Free,Prepared,71,77,77,49,8
+AM2025015,Female,Quezon,99,Masters,Discounted,Prepared,52,70,62,76,3
+AS2025027,Female,Aurora,73,Associate,Discounted,Prepared,97,100,100,100,0
+AM2025016,Male,Pampanga,93,Masters,Free,Prepared,62,68,75,63,0
+AX2025001,Female,Albay,69,Junior High School,Standard,Not Prepared,46,64,66,90,9
+SH2025028,Female,Sorsogon,83,Senior High School,Free,Not Prepared,50,50,47,70,3
+AD2025046,Female,Rizal,38,PhD,Discounted,Not Prepared,65,69,70,80,6
+AS2025028,Male,Camarines Norte,33,Associate,Free,Prepared,45,52,49,67,1
+AD2025047,Male,Quezon,62,PhD,Free,Prepared,65,67,65,99,2
+SH2025029,Male,Ilocos Sur,41,Senior High School,Standard,Not Prepared,80,76,65,71,0
+AS2025029,Male,Camarines Sur,86,Associate,Free,Prepared,62,66,68,96,4
+AS2025030,Male,Albay,87,Associate,Free,Not Prepared,48,52,45,77,0
+AX2025001,Female,Rizal,55,Bachelors,Discounted,Not Prepared,77,88,87,89,7
+AD2025048,Female,Albay,94,PhD,Free,Not Prepared,66,65,69,44,0
+AX2025001,Male,Albay,72,Junior High School,Discounted,Prepared,76,83,79,68,10
+AS2025031,Female,Nueva Vizcaya,46,Associate,Discounted,Not Prepared,62,64,66,49,0
+AX2025001,Male,Occidental Mindoro,58,Junior High School,Discounted,Prepared,77,62,62,53,1
+AM2025017,Female,Zambales,51,Masters,Standard,Prepared,69,84,85,49,1
+AD2025049,Male,Camarines Norte,94,PhD,Discounted,Not Prepared,61,55,52,80,5
+AS2025032,Male,La Union,55,Associate,Discounted,Prepared,59,69,65,91,6
+SH2025030,Male,Sorsogon,58,Senior High School,Standard,Not Prepared,55,56,51,41,4
+AX2025001,Female,Masbate,74,Junior High School,Standard,Not Prepared,45,53,55,52,0
+AX2025001,Female,Masbate,69,Bachelors,Free,Not Prepared,78,79,76,85,0
+AD2025050,Female,Rizal,42,PhD,Discounted,Prepared,67,84,86,51,2
+AX2025001,Female,Bulacan,75,Junior High School,Standard,Not Prepared,65,81,77,49,1
+AD2025051,Male,Palawan,52,PhD,Standard,Not Prepared,69,77,69,92,4
+AD2025052,Female,Marinduque,70,PhD,Discounted,Not Prepared,57,69,68,44,9
+AX2025001,Male,Zambales,70,Junior High School,Standard,Not Prepared,59,41,42,58,5
+AS2025033,Male,Quezon,68,Associate,Discounted,Prepared,74,71,78,53,6
+AX2025001,Male,Ilocos Norte,57,Bachelors,Standard,Not Prepared,82,62,62,45,3
+SH2025031,Male,Romblon,78,Senior High School,Free,Prepared,81,80,76,68,6
+AX2025001,Female,Bataan,62,Junior High School,Standard,Not Prepared,74,81,76,70,10
+AX2025001,Female,Sorsogon,74,Junior High School,Standard,Not Prepared,58,61,66,89,7
+AS2025034,Male,Masbate,45,Associate,Discounted,Prepared,80,79,79,92,10
+AX2025001,Male,La Union,68,Junior High School,Discounted,Not Prepared,35,28,27,81,0
+SH2025032,Female,Romblon,41,Senior High School,Discounted,Not Prepared,42,62,60,75,5
+AD2025053,Male,Laguna,84,PhD,Free,Prepared,60,51,56,84,7
+SH2025033,Male,Nueva Vizcaya,68,Senior High School,Discounted,Prepared,87,91,81,42,4
+AS2025035,Male,Sorsogon,75,Associate,Discounted,Prepared,84,83,75,49,3
+AD2025054,Female,Bataan,74,PhD,Standard,Prepared,83,86,88,49,1
+SH2025034,Female,Pampanga,60,Senior High School,Discounted,Not Prepared,34,42,39,81,5
+SH2025035,Male,Batangas,32,Senior High School,Discounted,Not Prepared,66,77,70,100,5
+AS2025036,Male,Cavite,47,Associate,Standard,Prepared,61,56,56,92,10
+SH2025036,Female,Tarlac,78,Senior High School,Standard,Prepared,56,68,74,70,0
+AD2025055,Male,Ilocos Norte,46,PhD,Free,Not Prepared,87,85,73,77,8
+AS2025037,Female,Cavite,33,Associate,Standard,Not Prepared,55,65,62,100,10
+AS2025038,Male,Aurora,56,Associate,Standard,Not Prepared,86,80,75,52,5
+AD2025056,Female,Batangas,51,PhD,Free,Prepared,52,66,73,97,2
+AM2025018,Female,Tarlac,40,Masters,Discounted,Not Prepared,45,56,54,40,3
+AX2025001,Female,Sorsogon,44,Junior High School,Discounted,Not Prepared,72,72,71,88,10
+SH2025037,Male,Quirino,99,Senior High School,Standard,Not Prepared,57,50,54,74,3
+AS2025039,Male,Laguna,68,Associate,Standard,Not Prepared,68,72,64,87,2
+AX2025001,Female,Camarines Sur,44,Junior High School,Free,Prepared,88,95,94,64,9
+AX2025001,Male,Bataan,65,Junior High School,Discounted,Not Prepared,76,64,66,80,2
+AD2025057,Male,Bataan,80,PhD,Discounted,Not Prepared,46,43,42,49,2
+AX2025001,Female,Cavite,48,Bachelors,Standard,Not Prepared,67,86,83,56,3
+AS2025040,Male,Isabela,83,Associate,Free,Not Prepared,92,87,78,43,6
+AX2025001,Male,Ilocos Norte,100,Bachelors,Standard,Prepared,83,82,84,94,3
+AD2025058,Male,Ilocos Sur,85,PhD,Free,Not Prepared,80,75,77,40,8
+AX2025001,Male,Cavite,34,Bachelors,Standard,Not Prepared,63,66,67,54,0
+AS2025041,Female,Catanduanes,55,Associate,Discounted,Prepared,64,60,74,85,7
+AX2025001,Male,Cagayan,73,Junior High School,Discounted,Not Prepared,54,52,51,95,6
+AD2025059,Male,Pangasinan,61,PhD,Free,Not Prepared,84,80,80,50,1
+SH2025038,Male,Ilocos Sur,74,Senior High School,Discounted,Prepared,73,68,66,59,7
+AX2025001,Female,La Union,47,Bachelors,Discounted,Not Prepared,80,83,83,55,0
+SH2025039,Female,La Union,72,Senior High School,Standard,Not Prepared,56,52,55,43,10
+AX2025001,Male,Catanduanes,84,Junior High School,Discounted,Not Prepared,59,51,43,56,8
+AS2025042,Male,Laguna,38,Associate,Standard,Not Prepared,75,74,69,48,8
+AD2025060,Male,Aurora,39,PhD,Discounted,Not Prepared,85,76,71,45,1
+AD2025061,Male,Albay,95,PhD,Discounted,Not Prepared,89,76,74,49,6
+SH2025040,Female,Palawan,86,Senior High School,Free,Prepared,58,70,68,98,9
+SH2025041,Female,Oriental Mindoro,52,Senior High School,Discounted,Not Prepared,65,64,62,40,2
+SH2025042,Male,Batanes,62,Senior High School,Discounted,Not Prepared,68,60,53,94,6
+AS2025043,Male,Laguna,31,Associate,Discounted,Prepared,47,49,49,92,9
+AX2025001,Female,Pangasinan,85,Junior High School,Discounted,Not Prepared,71,83,83,90,8
+AS2025044,Female,Nueva Vizcaya,39,Associate,Discounted,Prepared,60,70,70,56,3
+AM2025019,Male,Quezon,64,Masters,Standard,Not Prepared,80,80,72,44,0
+SH2025043,Male,Cavite,42,Senior High School,Free,Not Prepared,54,52,52,68,1
+AX2025001,Female,Isabela,64,Junior High School,Discounted,Not Prepared,62,73,70,79,0
+AD2025062,Female,Oriental Mindoro,91,PhD,Free,Not Prepared,64,73,68,95,4
+AD2025063,Male,Ilocos Sur,31,PhD,Free,Prepared,78,77,77,53,4
+AX2025001,Female,Quirino,72,Junior High School,Free,Not Prepared,70,75,78,100,10
+AM2025020,Female,Cavite,53,Masters,Discounted,Prepared,65,81,81,98,6
+AS2025045,Female,Ilocos Sur,35,Associate,Free,Prepared,64,79,77,67,8
+AX2025001,Male,Palawan,47,Junior High School,Standard,Prepared,79,79,78,69,8
+AS2025046,Female,Marinduque,40,Associate,Free,Not Prepared,44,50,51,55,2
+SH2025044,Female,Pangasinan,93,Senior High School,Free,Not Prepared,99,93,90,52,2
+SH2025045,Male,Albay,60,Senior High School,Discounted,Not Prepared,76,73,68,45,2
+AS2025047,Male,Camarines Sur,51,Associate,Standard,Not Prepared,59,42,41,44,3
+AX2025001,Female,Camarines Sur,68,Bachelors,Discounted,Not Prepared,63,75,81,68,7
+SH2025046,Female,Batanes,53,Senior High School,Discounted,Not Prepared,69,72,77,50,5
+AD2025064,Female,Pangasinan,95,PhD,Free,Prepared,88,92,95,49,7
+AX2025001,Female,La Union,79,Junior High School,Standard,Not Prepared,71,76,70,92,0
+AX2025001,Male,Nueva Vizcaya,92,Bachelors,Standard,Not Prepared,69,63,61,100,7
+AX2025001,Male,Quezon,57,Junior High School,Standard,Not Prepared,58,49,42,44,3
+AD2025065,Female,Tarlac,35,PhD,Discounted,Not Prepared,47,53,58,60,10
+AX2025001,Female,Pampanga,37,Junior High School,Discounted,Not Prepared,65,70,71,48,0
+AX2025001,Male,Camarines Sur,45,Junior High School,Discounted,Prepared,88,85,76,75,7
+AX2025001,Male,La Union,68,Bachelors,Discounted,Not Prepared,83,78,73,100,3
+AS2025048,Female,Nueva Ecija,50,Associate,Discounted,Prepared,85,92,93,58,5
+SH2025047,Female,Ilocos Norte,30,Senior High School,Standard,Prepared,59,63,75,79,7
+AS2025049,Female,Batangas,42,Associate,Discounted,Not Prepared,65,86,80,47,3
+AX2025001,Male,Isabela,43,Bachelors,Standard,Not Prepared,73,56,57,91,2
+SH2025048,Male,Marinduque,54,Senior High School,Free,Not Prepared,53,52,42,81,8
+SH2025049,Male,Pampanga,34,Senior High School,Standard,Not Prepared,45,48,46,86,2
+AX2025001,Female,Batangas,41,Bachelors,Free,Not Prepared,73,79,84,40,8
+AX2025001,Female,Batanes,79,Junior High School,Standard,Prepared,70,78,78,48,1
+AS2025050,Female,Cagayan,99,Associate,Free,Not Prepared,37,46,46,63,1
+AD2025066,Male,Ilocos Sur,71,PhD,Standard,Prepared,81,82,82,86,1
+AD2025067,Male,Bulacan,56,PhD,Standard,Prepared,97,82,88,57,5
+AS2025051,Female,Nueva Ecija,98,Associate,Free,Not Prepared,67,89,82,56,2
+AX2025001,Male,Quezon,45,Bachelors,Free,Not Prepared,88,75,76,60,8
+AS2025052,Male,Rizal,88,Associate,Discounted,Prepared,77,76,77,87,3
+AD2025068,Male,Pampanga,84,PhD,Free,Not Prepared,76,70,68,53,0
+AS2025053,Male,Tarlac,54,Associate,Discounted,Not Prepared,86,73,70,42,3
+AS2025054,Male,La Union,59,Associate,Discounted,Prepared,63,60,57,50,0
+AX2025001,Female,Albay,32,Bachelors,Discounted,Not Prepared,65,73,75,91,4
+SH2025050,Male,Marinduque,36,Senior High School,Discounted,Prepared,78,77,80,54,3
+AD2025069,Male,Quirino,69,PhD,Standard,Not Prepared,67,62,60,76,7
+AS2025055,Male,Ilocos Sur,39,Associate,Discounted,Prepared,46,41,43,81,7
+AD2025070,Male,Laguna,66,PhD,Standard,Prepared,71,74,68,41,6
+SH2025051,Male,Cavite,75,Senior High School,Standard,Prepared,40,46,50,64,2
+AD2025071,Male,Cavite,45,PhD,Standard,Not Prepared,90,87,75,85,0
+AX2025001,Male,Masbate,43,Junior High School,Discounted,Prepared,81,78,81,89,0
+AS2025056,Male,Oriental Mindoro,66,Associate,Discounted,Not Prepared,56,54,52,45,10
+AD2025072,Female,Bulacan,86,PhD,Free,Prepared,67,84,81,92,2
+AD2025073,Male,Cavite,98,PhD,Standard,Not Prepared,80,76,64,95,5
+AD2025074,Female,Quezon,80,PhD,Discounted,Prepared,74,75,83,62,6
+AX2025001,Male,Masbate,53,Junior High School,Discounted,Not Prepared,69,67,69,49,5
+AX2025001,Male,Tarlac,78,Junior High School,Discounted,Prepared,99,87,81,74,5
+AS2025057,Male,Nueva Vizcaya,51,Associate,Discounted,Not Prepared,51,52,44,98,5
+AD2025075,Female,Bulacan,77,PhD,Discounted,Not Prepared,53,71,67,81,2
+SH2025052,Female,Ilocos Sur,68,Senior High School,Discounted,Not Prepared,49,57,52,60,5
+AD2025076,Female,Nueva Ecija,78,PhD,Discounted,Not Prepared,73,76,80,40,7
+AX2025001,Male,Zambales,76,Bachelors,Standard,Not Prepared,66,60,57,90,10
+AX2025001,Male,Batanes,48,Bachelors,Free,Prepared,67,61,68,98,10
+AD2025077,Female,Aurora,40,PhD,Discounted,Prepared,68,67,69,57,1
+AX2025001,Female,Nueva Vizcaya,52,Bachelors,Discounted,Prepared,59,64,75,96,4
+SH2025053,Male,Catanduanes,52,Senior High School,Discounted,Not Prepared,71,66,65,50,0
+AM2025021,Female,Isabela,99,Masters,Standard,Prepared,77,82,91,91,0
+AD2025078,Male,Aurora,99,PhD,Discounted,Not Prepared,83,72,78,79,4
+AX2025001,Male,Cagayan,88,Bachelors,Free,Not Prepared,63,71,69,56,2
+AD2025079,Female,Zambales,63,PhD,Discounted,Not Prepared,56,65,63,87,3
+SH2025054,Female,Batangas,96,Senior High School,Free,Prepared,67,79,84,56,2
+SH2025055,Female,Camarines Sur,96,Senior High School,Free,Not Prepared,75,86,79,65,0
+AX2025001,Female,Aurora,83,Junior High School,Standard,Not Prepared,71,81,80,79,0
+AS2025058,Female,Camarines Norte,38,Associate,Discounted,Not Prepared,43,53,53,79,4
+SH2025056,Female,Batanes,74,Senior High School,Standard,Not Prepared,41,46,43,83,5
+AX2025001,Female,La Union,45,Junior High School,Discounted,Not Prepared,82,90,94,91,2
+AX2025001,Male,Isabela,41,Junior High School,Free,Not Prepared,61,61,62,44,8
+AX2025001,Male,Palawan,42,Junior High School,Free,Not Prepared,28,23,19,73,4
+AD2025080,Male,Masbate,50,PhD,Free,Prepared,82,75,77,44,7
+AS2025059,Female,Zambales,87,Associate,Discounted,Not Prepared,41,55,51,78,0
+SH2025057,Male,La Union,100,Senior High School,Discounted,Not Prepared,71,60,61,42,4
+AD2025081,Male,Laguna,93,PhD,Free,Not Prepared,47,37,35,44,2
+AD2025082,Male,Romblon,92,PhD,Free,Prepared,62,56,53,42,0
+AD2025083,Male,Bataan,43,PhD,Free,Not Prepared,90,78,81,78,3
+AX2025001,Female,Marinduque,67,Bachelors,Free,Not Prepared,83,93,95,81,4
+AX2025001,Female,Batangas,52,Junior High School,Free,Not Prepared,61,68,66,70,6
+AS2025060,Male,Romblon,32,Associate,Free,Prepared,76,70,69,48,0
+AD2025084,Male,Isabela,35,PhD,Standard,Not Prepared,49,51,43,76,2
+AS2025061,Female,Ilocos Sur,51,Associate,Free,Not Prepared,24,38,27,78,1
+AS2025062,Female,Cavite,36,Associate,Discounted,Prepared,35,55,60,82,8
+SH2025058,Male,Laguna,34,Senior High School,Discounted,Not Prepared,58,61,52,83,9
+SH2025059,Female,Cavite,34,Senior High School,Free,Not Prepared,61,73,63,45,5
+SH2025060,Female,Marinduque,100,Senior High School,Discounted,Prepared,69,76,74,75,9
+AD2025085,Male,Nueva Ecija,42,PhD,Free,Prepared,67,72,67,64,2
+AX2025001,Male,Pampanga,72,Junior High School,Standard,Not Prepared,79,73,67,76,7
+SH2025061,Female,Pampanga,33,Senior High School,Free,Not Prepared,72,80,75,40,7
+AX2025001,Male,Occidental Mindoro,85,Junior High School,Discounted,Not Prepared,62,61,57,92,1
+AX2025001,Female,Sorsogon,87,Bachelors,Free,Prepared,77,94,95,43,5
+SH2025062,Male,Zambales,50,Senior High School,Discounted,Not Prepared,75,74,66,55,6
+AD2025086,Male,Zambales,52,PhD,Free,Not Prepared,87,74,76,87,1
+AX2025001,Female,Nueva Ecija,56,Bachelors,Discounted,Not Prepared,52,65,69,78,10
+AX2025001,Male,Masbate,67,Junior High School,Discounted,Not Prepared,66,57,52,51,9
+AX2025001,Female,Camarines Sur,66,Junior High School,Standard,Prepared,63,78,80,40,1
+AD2025087,Female,Palawan,90,PhD,Discounted,Not Prepared,46,58,57,49,9
+AX2025001,Female,Masbate,54,Junior High School,Standard,Not Prepared,59,71,70,58,0
+AX2025001,Female,Nueva Vizcaya,66,Bachelors,Discounted,Not Prepared,61,72,70,45,7
+AD2025088,Male,Pampanga,46,PhD,Free,Not Prepared,63,61,61,48,0
+AX2025001,Female,Zambales,78,Junior High School,Standard,Prepared,42,66,69,99,8
+AX2025001,Male,Pangasinan,39,Junior High School,Free,Not Prepared,59,62,61,65,10
+AX2025001,Female,Aurora,65,Junior High School,Free,Not Prepared,80,90,89,79,5
+SH2025063,Female,Occidental Mindoro,91,Senior High School,Free,Not Prepared,58,62,59,83,6
+AS2025063,Male,Occidental Mindoro,88,Associate,Discounted,Prepared,85,84,78,68,9
+AX2025001,Female,Zambales,71,Junior High School,Discounted,Not Prepared,52,58,58,62,6
+AS2025064,Female,Marinduque,45,Associate,Free,Not Prepared,27,34,32,77,9
+AX2025001,Male,Oriental Mindoro,73,Junior High School,Free,Not Prepared,59,60,58,58,2
+AX2025001,Male,Cagayan,53,Bachelors,Discounted,Prepared,49,58,60,43,1
+SH2025064,Male,Occidental Mindoro,100,Senior High School,Free,Prepared,69,58,53,58,8
+AX2025001,Male,Zambales,34,Bachelors,Discounted,Not Prepared,61,66,61,95,7
+AS2025065,Female,Romblon,76,Associate,Free,Not Prepared,44,64,58,90,9
+AS2025066,Female,Palawan,40,Associate,Discounted,Not Prepared,73,84,85,47,6
+AX2025001,Male,Cagayan,57,Junior High School,Free,Not Prepared,84,77,71,76,8
+AX2025001,Female,Quirino,48,Junior High School,Standard,Prepared,45,73,70,82,3
+AS2025067,Male,Aurora,62,Associate,Discounted,Not Prepared,74,74,72,93,3
+AX2025001,Female,Bataan,62,Junior High School,Standard,Prepared,82,97,96,67,0
+AX2025001,Female,Tarlac,69,Bachelors,Discounted,Not Prepared,59,70,73,92,7
+AD2025089,Male,Isabela,63,PhD,Standard,Not Prepared,46,43,41,47,2
+AS2025068,Female,Camarines Norte,80,Associate,Free,Not Prepared,80,90,82,45,6
+AM2025022,Female,Occidental Mindoro,86,Masters,Discounted,Prepared,85,95,100,90,1
+AS2025069,Female,Oriental Mindoro,58,Associate,Free,Not Prepared,71,83,77,83,1
+AX2025001,Male,Quirino,91,Bachelors,Free,Not Prepared,66,64,62,87,6
+AD2025090,Female,Cavite,61,PhD,Discounted,Not Prepared,80,86,83,45,5
+AD2025091,Male,Nueva Ecija,67,PhD,Free,Prepared,87,100,95,62,2
+AM2025023,Male,Tarlac,55,Masters,Free,Not Prepared,79,81,71,89,8
+AS2025070,Female,Pampanga,70,Associate,Free,Not Prepared,38,49,45,73,9
+AS2025071,Female,Rizal,59,Associate,Free,Not Prepared,38,43,43,69,5
+AX2025001,Female,Palawan,83,Junior High School,Discounted,Not Prepared,67,76,75,71,9
+AX2025001,Female,Rizal,60,Bachelors,Standard,Not Prepared,64,73,70,64,9
+AD2025092,Female,La Union,43,PhD,Standard,Not Prepared,57,78,67,87,5
+SH2025065,Female,Batanes,98,Senior High School,Standard,Not Prepared,62,64,64,70,0
+AM2025024,Male,Pampanga,74,Masters,Discounted,Not Prepared,73,70,75,55,3
+AS2025072,Male,Catanduanes,87,Associate,Standard,Prepared,73,67,59,65,9
+AX2025001,Female,Tarlac,35,Junior High School,Discounted,Not Prepared,77,68,77,40,5
+AX2025001,Male,Ilocos Norte,81,Junior High School,Standard,Not Prepared,76,67,67,45,5
+AD2025093,Male,Zambales,53,PhD,Standard,Prepared,57,54,56,61,10
+AS2025073,Female,Romblon,60,Associate,Standard,Prepared,65,74,77,52,4
+SH2025066,Male,Nueva Ecija,70,Senior High School,Standard,Not Prepared,48,45,41,49,0
+SH2025067,Female,Camarines Sur,78,Senior High School,Standard,Not Prepared,50,67,63,70,7
+AD2025094,Female,Masbate,53,PhD,Standard,Not Prepared,85,89,95,95,4
+AS2025074,Male,Batangas,61,Associate,Discounted,Not Prepared,74,63,57,93,4
+AS2025075,Male,Zambales,88,Associate,Standard,Not Prepared,60,59,54,48,6
+AS2025076,Female,Sorsogon,74,Associate,Discounted,Prepared,59,54,67,61,3
+AX2025001,Male,Pampanga,77,Junior High School,Standard,Not Prepared,53,43,43,66,5
+AX2025001,Female,Catanduanes,79,Junior High School,Standard,Not Prepared,49,65,55,90,3
+SH2025068,Female,Catanduanes,92,Senior High School,Standard,Prepared,88,99,100,48,2
+SH2025069,Female,Camarines Sur,100,Senior High School,Free,Not Prepared,54,59,62,69,6
+AS2025077,Female,Occidental Mindoro,100,Associate,Standard,Not Prepared,63,73,68,60,7
+AD2025095,Male,La Union,45,PhD,Standard,Prepared,65,65,63,58,3
+AD2025096,Female,Camarines Sur,56,PhD,Discounted,Not Prepared,82,80,77,40,1
+SH2025070,Female,Aurora,81,Senior High School,Standard,Prepared,52,57,56,70,9
+AD2025097,Male,Ilocos Norte,56,PhD,Free,Prepared,87,84,85,45,2
+AM2025025,Female,Isabela,43,Masters,Free,Prepared,70,71,74,76,0
+AX2025001,Male,Laguna,68,Junior High School,Discounted,Prepared,84,83,78,100,7
+AD2025098,Male,Sorsogon,49,PhD,Standard,Not Prepared,71,66,60,90,2
+AS2025078,Male,Aurora,63,Associate,Standard,Prepared,63,67,67,52,9
+AX2025001,Female,Camarines Sur,100,Bachelors,Standard,Prepared,51,72,79,83,6
+SH2025071,Male,Rizal,90,Senior High School,Discounted,Not Prepared,84,73,69,90,9
+AX2025001,Male,Occidental Mindoro,40,Bachelors,Standard,Prepared,71,74,68,79,4
+AD2025099,Male,Laguna,37,PhD,Discounted,Not Prepared,74,73,67,98,9
+AX2025001,Male,Oriental Mindoro,84,Junior High School,Free,Not Prepared,68,59,62,44,4
+SH2025072,Male,Oriental Mindoro,33,Senior High School,Free,Prepared,57,56,54,79,6
+AD2025100,Female,Bataan,33,PhD,Discounted,Prepared,82,93,93,98,8
+SH2025073,Female,Albay,78,Senior High School,Standard,Prepared,57,58,64,89,4
+AM2025026,Female,Rizal,89,Masters,Standard,Prepared,47,58,67,100,0
+AS2025079,Female,Camarines Norte,60,Associate,Standard,Prepared,59,85,80,41,9
+AX2025001,Male,La Union,40,Junior High School,Standard,Not Prepared,41,39,34,68,9
+AX2025001,Female,Bataan,96,Junior High School,Discounted,Not Prepared,62,67,62,88,0
+AX2025001,Male,Albay,99,Bachelors,Discounted,Not Prepared,86,83,86,76,1
+AS2025080,Male,Palawan,70,Associate,Free,Not Prepared,69,71,65,66,5
+AS2025081,Male,Palawan,64,Associate,Standard,Not Prepared,65,59,53,81,8
+AS2025082,Male,Isabela,89,Associate,Standard,Not Prepared,68,63,54,61,7
+AD2025101,Male,Sorsogon,42,PhD,Free,Not Prepared,64,66,59,94,4
+SH2025074,Female,Cavite,54,Senior High School,Free,Not Prepared,61,72,70,57,0
+SH2025075,Male,Rizal,93,Senior High School,Free,Not Prepared,61,56,55,59,6
+AS2025083,Female,Masbate,46,Associate,Standard,Not Prepared,47,59,50,67,4
+AS2025084,Male,Palawan,98,Associate,Standard,Not Prepared,73,66,66,81,5
+AX2025001,Male,Batanes,45,Junior High School,Standard,Prepared,50,48,53,44,6
+AD2025102,Male,Cagayan,86,PhD,Discounted,Not Prepared,75,68,64,42,2
+AD2025103,Male,Masbate,31,PhD,Free,Not Prepared,75,66,73,40,9
+SH2025076,Male,Nueva Ecija,66,Senior High School,Discounted,Not Prepared,70,56,51,88,2
+AS2025085,Male,Cagayan,66,Associate,Standard,Prepared,89,88,82,91,4
+AX2025001,Female,Batanes,51,Junior High School,Discounted,Prepared,67,81,79,84,5
+SH2025077,Female,Nueva Ecija,43,Senior High School,Standard,Not Prepared,78,81,80,96,8
+AS2025086,Female,Tarlac,63,Associate,Discounted,Not Prepared,59,73,69,56,4
+AD2025104,Female,Quirino,46,PhD,Free,Not Prepared,73,83,76,66,0
+AS2025087,Male,Batangas,49,Associate,Standard,Not Prepared,79,82,73,44,3
+AS2025088,Female,Cagayan,48,Associate,Free,Prepared,67,74,77,80,4
+AX2025001,Male,Quezon,32,Junior High School,Discounted,Not Prepared,69,66,60,53,9
+SH2025078,Male,Cavite,63,Senior High School,Free,Prepared,86,81,80,45,9
+SH2025079,Male,Marinduque,71,Senior High School,Free,Not Prepared,47,46,42,65,4
+AD2025105,Male,Masbate,71,PhD,Standard,Not Prepared,81,73,72,60,6
+AX2025001,Female,Masbate,81,Junior High School,Free,Prepared,64,85,85,81,3
+AX2025001,Female,Camarines Norte,70,Junior High School,Standard,Not Prepared,100,92,97,56,0
+AD2025106,Female,Bataan,37,PhD,Discounted,Not Prepared,65,77,74,87,4
+AX2025001,Male,Sorsogon,31,Junior High School,Standard,Not Prepared,65,58,49,58,6
+AD2025107,Female,Laguna,87,PhD,Free,Not Prepared,53,61,62,92,9
+AX2025001,Male,Bataan,99,Bachelors,Discounted,Not Prepared,37,56,47,85,9
+AX2025001,Female,Catanduanes,84,Bachelors,Free,Not Prepared,79,89,89,78,5
+AD2025108,Male,Cagayan,69,PhD,Discounted,Not Prepared,53,54,48,89,4
+AX2025001,Female,Aurora,37,Bachelors,Free,Not Prepared,100,100,100,44,3
+SH2025080,Male,Nueva Vizcaya,51,Senior High School,Discounted,Prepared,72,65,68,85,1
+AX2025001,Male,Laguna,35,Bachelors,Standard,Not Prepared,53,58,55,70,3
+AX2025001,Male,Palawan,60,Junior High School,Free,Not Prepared,54,54,45,97,9
+AX2025001,Female,La Union,78,Junior High School,Discounted,Not Prepared,71,70,76,85,9
+AX2025001,Female,Palawan,61,Junior High School,Standard,Not Prepared,77,90,91,47,2
+AX2025001,Male,Marinduque,97,Bachelors,Standard,Prepared,75,58,62,58,9
+AX2025001,Female,Ilocos Norte,80,Junior High School,Standard,Not Prepared,84,87,91,69,0
+AD2025109,Female,Cagayan,83,PhD,Free,Not Prepared,26,31,38,73,7
+SH2025081,Male,Ilocos Sur,82,Senior High School,Free,Prepared,72,67,65,91,4
+SH2025082,Female,Cavite,63,Senior High School,Discounted,Prepared,77,88,85,49,3
+AX2025001,Male,Nueva Ecija,42,Junior High School,Standard,Not Prepared,91,74,76,59,7
+AD2025110,Female,Zambales,66,PhD,Free,Prepared,83,85,90,76,6
+SH2025083,Female,Camarines Norte,70,Senior High School,Discounted,Not Prepared,63,69,74,69,1
+AD2025111,Female,Camarines Norte,96,PhD,Standard,Prepared,68,86,84,74,0
+AS2025089,Female,Occidental Mindoro,64,Associate,Free,Not Prepared,59,67,61,57,10
+AD2025112,Female,Camarines Sur,58,PhD,Standard,Prepared,90,90,91,94,3
+AX2025001,Female,Bataan,73,Bachelors,Free,Prepared,71,76,83,53,7
+AX2025001,Male,Ilocos Norte,41,Bachelors,Discounted,Prepared,76,62,66,79,1
+AD2025113,Male,Nueva Vizcaya,93,PhD,Free,Not Prepared,80,68,72,96,2
+AM2025027,Female,Albay,77,Masters,Discounted,Not Prepared,55,64,70,89,0
+AD2025114,Male,Nueva Vizcaya,90,PhD,Standard,Not Prepared,76,71,67,64,0
+SH2025084,Male,Ilocos Sur,34,Senior High School,Free,Prepared,73,71,68,79,2
+AD2025115,Female,Occidental Mindoro,80,PhD,Free,Not Prepared,52,59,56,45,10
+AX2025001,Male,Ilocos Norte,74,Junior High School,Standard,Not Prepared,68,68,61,73,4
+SH2025085,Male,Rizal,32,Senior High School,Discounted,Not Prepared,59,52,46,100,2
+AD2025116,Female,Cagayan,70,PhD,Discounted,Not Prepared,49,52,54,94,0
+SH2025086,Male,Camarines Norte,94,Senior High School,Free,Not Prepared,70,74,71,89,0
+AX2025001,Male,Ilocos Norte,71,Junior High School,Discounted,Not Prepared,61,47,56,93,7
+AD2025117,Female,Cavite,81,PhD,Standard,Not Prepared,60,75,74,67,9
+AS2025090,Male,Sorsogon,34,Associate,Discounted,Prepared,64,53,57,54,10
+AD2025118,Male,Batangas,60,PhD,Discounted,Prepared,79,82,82,86,1
+AD2025119,Female,Pampanga,78,PhD,Free,Not Prepared,65,85,76,71,2
+AD2025120,Female,Occidental Mindoro,52,PhD,Discounted,Not Prepared,64,64,70,63,1
+AX2025001,Female,Batangas,84,Junior High School,Discounted,Not Prepared,83,83,90,80,2
+AX2025001,Female,Nueva Vizcaya,63,Bachelors,Discounted,Not Prepared,81,88,90,44,6
+SH2025087,Female,Isabela,47,Senior High School,Free,Not Prepared,54,64,68,86,0
+SH2025088,Male,Ilocos Norte,89,Senior High School,Free,Prepared,68,64,66,52,9
+AX2025001,Female,Rizal,40,Junior High School,Standard,Not Prepared,54,48,52,61,7
+AX2025001,Female,Romblon,44,Junior High School,Free,Prepared,59,78,76,100,9
+AS2025091,Female,Quirino,93,Associate,Free,Not Prepared,66,69,68,70,9
+AX2025001,Male,Isabela,82,Junior High School,Discounted,Not Prepared,76,71,72,83,9
+AM2025028,Female,Quezon,73,Masters,Free,Not Prepared,74,79,82,47,1
+AD2025121,Female,Quirino,82,PhD,Standard,Prepared,94,87,92,68,2
+AX2025001,Male,Sorsogon,35,Junior High School,Discounted,Not Prepared,63,61,54,52,8
+AD2025122,Female,Ilocos Norte,46,PhD,Free,Prepared,95,89,92,100,6
+AM2025029,Female,Zambales,91,Masters,Free,Not Prepared,40,59,54,66,3
+AS2025092,Female,Bataan,66,Associate,Standard,Not Prepared,82,82,80,76,9
+SH2025089,Male,Pampanga,50,Senior High School,Free,Not Prepared,68,70,66,93,4
+AX2025001,Male,Bulacan,84,Bachelors,Discounted,Not Prepared,55,59,54,78,1
+AM2025030,Male,Isabela,72,Masters,Standard,Not Prepared,79,78,77,49,10
+AX2025001,Female,Romblon,87,Bachelors,Discounted,Not Prepared,86,92,87,97,7
+AX2025001,Male,Sorsogon,70,Junior High School,Discounted,Not Prepared,76,71,73,62,3
+AS2025093,Male,Bulacan,84,Associate,Discounted,Not Prepared,64,50,43,55,8
+AS2025094,Male,Nueva Ecija,74,Associate,Discounted,Not Prepared,62,49,52,84,4
+AS2025095,Female,Laguna,58,Associate,Standard,Prepared,54,61,62,83,8
+AM2025031,Female,Oriental Mindoro,43,Masters,Standard,Prepared,77,97,94,52,3
+AS2025096,Female,Oriental Mindoro,70,Associate,Free,Prepared,76,87,85,93,9
+AX2025001,Female,Oriental Mindoro,30,Junior High School,Discounted,Not Prepared,74,89,84,73,4
+AX2025001,Female,Cagayan,82,Junior High School,Discounted,Prepared,66,74,73,99,8
+AS2025097,Female,Catanduanes,72,Associate,Discounted,Prepared,66,78,78,66,7
+SH2025090,Female,Palawan,33,Senior High School,Discounted,Prepared,67,78,79,68,2
+AX2025001,Male,Pampanga,98,Junior High School,Standard,Not Prepared,71,49,52,55,0
+AD2025123,Female,Nueva Ecija,45,PhD,Free,Not Prepared,91,86,84,72,2
+AX2025001,Male,Bataan,43,Bachelors,Standard,Not Prepared,69,58,57,68,3
+AM2025032,Male,Nueva Ecija,84,Masters,Standard,Not Prepared,54,59,50,57,1
+SH2025091,Male,Rizal,54,Senior High School,Standard,Prepared,53,52,49,66,0
+AX2025001,Male,Pampanga,65,Junior High School,Discounted,Not Prepared,68,60,59,66,6
+AS2025098,Male,Masbate,85,Associate,Discounted,Prepared,56,61,60,95,7
+SH2025092,Female,Aurora,72,Senior High School,Free,Not Prepared,36,53,43,66,6
+AX2025001,Female,Tarlac,59,Bachelors,Standard,Not Prepared,29,41,47,43,4
+AD2025124,Female,Camarines Norte,69,PhD,Standard,Not Prepared,62,74,70,84,0
+AD2025125,Female,La Union,76,PhD,Standard,Prepared,68,67,73,79,6
+AS2025099,Female,Aurora,40,Associate,Free,Not Prepared,47,54,53,82,6
+AD2025126,Male,Sorsogon,57,PhD,Standard,Prepared,62,61,58,84,8
+AD2025127,Female,Romblon,79,PhD,Discounted,Prepared,79,88,94,59,2
+SH2025093,Male,Albay,60,Senior High School,Free,Prepared,73,69,68,69,8
+AX2025001,Female,Cagayan,47,Bachelors,Standard,Prepared,66,83,83,57,0
+AD2025128,Male,Rizal,93,PhD,Free,Prepared,51,60,58,47,0
+SH2025094,Female,Bulacan,99,Senior High School,Standard,Not Prepared,51,66,62,82,3
+AX2025001,Male,Pampanga,53,Bachelors,Free,Prepared,85,66,71,62,8
+AD2025129,Male,Catanduanes,87,PhD,Discounted,Prepared,97,92,86,69,5
+SH2025095,Male,Catanduanes,54,Senior High School,Free,Prepared,75,69,68,57,10
+AD2025130,Male,Cagayan,85,PhD,Discounted,Prepared,79,82,80,79,2
+AD2025131,Female,Tarlac,83,PhD,Free,Not Prepared,81,77,79,63,0
+AD2025132,Female,Pangasinan,92,PhD,Standard,Not Prepared,82,95,89,76,3
+AM2025033,Female,Tarlac,31,Masters,Standard,Not Prepared,64,63,66,68,8
+AS2025100,Male,Laguna,40,Associate,Free,Prepared,78,83,80,78,2
+AS2025101,Female,Marinduque,69,Associate,Free,Prepared,92,100,97,66,8
+SH2025096,Male,Aurora,100,Senior High School,Standard,Prepared,72,67,64,43,6
+SH2025097,Female,Ilocos Sur,40,Senior High School,Free,Not Prepared,62,67,64,89,3
+AM2025034,Male,Ilocos Sur,55,Masters,Standard,Not Prepared,79,72,69,42,2
+AS2025102,Male,Tarlac,49,Associate,Standard,Not Prepared,79,76,65,90,9
+AX2025001,Male,Quirino,87,Bachelors,Free,Prepared,87,90,88,86,4
+AD2025133,Female,Pangasinan,35,PhD,Standard,Not Prepared,40,48,50,84,4
+AX2025001,Male,La Union,96,Junior High School,Free,Not Prepared,77,62,64,85,2
+AD2025134,Male,Romblon,84,PhD,Standard,Not Prepared,53,45,40,97,8
+AX2025001,Female,Bulacan,79,Junior High School,Discounted,Not Prepared,32,39,33,97,3
+AD2025135,Female,Tarlac,97,PhD,Discounted,Prepared,55,72,79,93,10
+AM2025035,Male,Cagayan,63,Masters,Standard,Not Prepared,61,67,66,41,4
+AD2025136,Female,Cagayan,76,PhD,Standard,Not Prepared,53,70,70,62,3
+AS2025103,Male,Quezon,82,Associate,Free,Not Prepared,73,66,62,73,4
+AX2025001,Female,Nueva Vizcaya,95,Junior High School,Discounted,Prepared,74,75,79,62,6
+AX2025001,Female,Nueva Ecija,92,Junior High School,Discounted,Not Prepared,63,74,74,70,8
+AX2025001,Male,Palawan,83,Bachelors,Standard,Prepared,96,90,92,90,6
+AX2025001,Female,Cagayan,34,Junior High School,Standard,Prepared,63,80,80,59,4
+AX2025001,Male,Quezon,50,Bachelors,Free,Not Prepared,48,51,46,58,9
+AD2025137,Male,Pangasinan,93,PhD,Free,Not Prepared,48,43,45,76,9
+AX2025001,Female,Camarines Sur,84,Bachelors,Discounted,Prepared,92,100,100,46,6
+AM2025036,Female,Nueva Ecija,91,Masters,Standard,Prepared,61,71,78,75,9
+SH2025098,Male,Isabela,46,Senior High School,Free,Not Prepared,63,48,47,75,4
+AX2025001,Male,Ilocos Norte,86,Bachelors,Standard,Not Prepared,68,68,67,47,2
+AX2025001,Male,Romblon,49,Junior High School,Free,Prepared,71,75,70,96,6
+AX2025001,Male,Nueva Vizcaya,68,Bachelors,Standard,Not Prepared,91,96,92,94,10
+AX2025001,Female,Zambales,65,Junior High School,Discounted,Not Prepared,53,62,56,56,10
+SH2025099,Female,Masbate,66,Senior High School,Discounted,Prepared,50,66,64,96,1
+SH2025100,Female,Pampanga,86,Senior High School,Standard,Not Prepared,74,81,71,49,8
+AD2025138,Male,Quezon,36,PhD,Standard,Prepared,40,55,53,64,9
+AX2025001,Male,Catanduanes,32,Junior High School,Free,Prepared,61,51,52,85,9
+SH2025101,Female,Palawan,80,Senior High School,Standard,Not Prepared,81,91,89,76,0
+AX2025001,Female,Nueva Vizcaya,75,Junior High School,Standard,Prepared,48,56,58,67,5
+AM2025037,Female,Oriental Mindoro,81,Masters,Free,Not Prepared,53,61,68,50,6
+AS2025104,Female,Cagayan,90,Associate,Standard,Not Prepared,81,97,96,51,7
+AS2025105,Female,Catanduanes,72,Associate,Free,Not Prepared,77,79,80,52,9
+AX2025001,Female,Occidental Mindoro,71,Bachelors,Discounted,Not Prepared,63,73,78,92,8
+AD2025139,Female,Romblon,65,PhD,Free,Prepared,73,75,80,64,1
+AX2025001,Female,Aurora,85,Junior High School,Discounted,Not Prepared,69,77,77,84,10
+AD2025140,Female,Romblon,36,PhD,Standard,Not Prepared,65,76,76,81,9
+SH2025102,Female,Aurora,63,Senior High School,Discounted,Not Prepared,55,73,73,100,1
+AX2025001,Female,Isabela,71,Bachelors,Discounted,Not Prepared,44,63,62,63,4
+AX2025001,Female,Laguna,69,Junior High School,Standard,Not Prepared,54,64,65,72,4
+AS2025106,Female,Nueva Ecija,42,Associate,Free,Not Prepared,48,66,65,85,5
+AX2025001,Male,Camarines Sur,41,Junior High School,Standard,Not Prepared,58,57,54,99,2
+AS2025107,Male,Laguna,55,Associate,Standard,Not Prepared,71,62,50,66,7
+AX2025001,Male,Cavite,61,Bachelors,Free,Not Prepared,68,68,64,45,0
+SH2025103,Female,Cavite,76,Senior High School,Discounted,Not Prepared,74,76,73,95,5
+AX2025001,Female,Laguna,61,Bachelors,Discounted,Prepared,92,100,99,65,3
+AX2025001,Female,Nueva Ecija,55,Bachelors,Discounted,Prepared,56,79,72,97,0
+SH2025104,Male,Bulacan,67,Senior High School,Free,Not Prepared,30,24,15,87,6
+AS2025108,Male,Nueva Ecija,30,Associate,Discounted,Not Prepared,53,54,48,75,8
+SH2025105,Female,Albay,66,Senior High School,Discounted,Not Prepared,69,77,73,85,3
+AS2025109,Female,Nueva Vizcaya,65,Associate,Standard,Not Prepared,65,82,81,68,3
+AM2025038,Female,Masbate,35,Masters,Standard,Not Prepared,54,60,63,85,5
+SH2025106,Female,Oriental Mindoro,87,Senior High School,Standard,Not Prepared,29,29,30,92,2
+AX2025001,Female,Ilocos Sur,67,Junior High School,Standard,Not Prepared,76,78,80,47,5
+SH2025107,Male,Palawan,37,Senior High School,Discounted,Not Prepared,60,57,51,75,6
+AM2025039,Male,Ilocos Sur,88,Masters,Discounted,Prepared,84,89,90,75,10
+AS2025110,Male,Albay,31,Associate,Discounted,Not Prepared,75,72,62,71,9
+AD2025141,Female,Rizal,31,PhD,Discounted,Not Prepared,85,84,82,95,9
+AM2025040,Female,Quirino,34,Masters,Standard,Not Prepared,40,58,54,85,2
+AX2025001,Female,Albay,46,Junior High School,Standard,Not Prepared,61,64,62,58,6
+AD2025142,Female,Pampanga,63,PhD,Standard,Not Prepared,58,63,65,50,2
+AX2025001,Male,Ilocos Norte,79,Junior High School,Discounted,Prepared,69,60,63,78,1
+AX2025001,Female,Occidental Mindoro,30,Junior High School,Discounted,Not Prepared,58,59,66,67,9
+AX2025001,Male,Aurora,34,Bachelors,Free,Prepared,94,90,91,57,3
+AD2025143,Female,Ilocos Sur,93,PhD,Free,Not Prepared,65,77,74,84,7
+AD2025144,Female,Bulacan,64,PhD,Standard,Not Prepared,82,93,93,100,8
+SH2025108,Female,Aurora,71,Senior High School,Free,Not Prepared,60,68,72,72,6
+AX2025001,Female,Nueva Ecija,55,Bachelors,Discounted,Not Prepared,37,45,38,66,0
+AX2025001,Male,Rizal,44,Bachelors,Discounted,Not Prepared,88,78,83,74,2
+AM2025041,Male,Cagayan,99,Masters,Free,Not Prepared,95,81,84,84,8
+AD2025145,Male,Oriental Mindoro,38,PhD,Free,Prepared,65,73,68,54,0
+SH2025109,Female,Camarines Sur,72,Senior High School,Discounted,Not Prepared,35,61,54,91,8
+AX2025001,Male,Quirino,63,Bachelors,Free,Not Prepared,62,63,56,66,7
+SH2025110,Male,Camarines Norte,77,Senior High School,Free,Prepared,58,51,52,69,0
+AX2025001,Male,La Union,90,Junior High School,Free,Prepared,100,96,86,80,5
+AX2025001,Female,Marinduque,89,Bachelors,Discounted,Not Prepared,61,58,62,84,4
+AX2025001,Male,Camarines Norte,93,Junior High School,Free,Prepared,100,97,99,64,5
+AD2025146,Male,Masbate,78,PhD,Discounted,Prepared,69,70,63,95,9
+AD2025147,Male,Batangas,40,PhD,Free,Not Prepared,61,48,46,94,4
+AX2025001,Male,Tarlac,32,Junior High School,Free,Not Prepared,49,57,46,45,5
+AS2025111,Female,Batangas,96,Associate,Free,Prepared,44,51,55,91,4
+AX2025001,Male,Masbate,34,Junior High School,Free,Not Prepared,67,64,70,53,10
+SH2025111,Male,Rizal,50,Senior High School,Standard,Not Prepared,79,60,65,67,4
+AX2025001,Female,Ilocos Norte,37,Bachelors,Free,Prepared,66,74,81,76,3
+SH2025112,Female,Camarines Norte,39,Senior High School,Standard,Not Prepared,75,88,85,62,2
+AS2025112,Male,Camarines Sur,75,Associate,Discounted,Not Prepared,84,84,80,82,2
+SH2025113,Male,Albay,42,Senior High School,Discounted,Not Prepared,71,74,64,57,3
+SH2025114,Female,Camarines Norte,76,Senior High School,Free,Prepared,67,80,81,87,8
+AS2025113,Female,Pangasinan,79,Associate,Discounted,Prepared,80,92,88,51,1
+AX2025001,Male,Ilocos Sur,82,Junior High School,Standard,Not Prepared,86,76,74,52,8
+AD2025148,Female,Catanduanes,61,PhD,Free,Not Prepared,76,74,73,47,0
+SH2025115,Male,Nueva Ecija,54,Senior High School,Standard,Not Prepared,41,52,51,97,0
+AD2025149,Female,Batanes,42,PhD,Standard,Prepared,74,88,90,53,4
+AS2025114,Female,Catanduanes,57,Associate,Discounted,Not Prepared,72,81,79,56,5
+SH2025116,Female,Pangasinan,69,Senior High School,Free,Prepared,74,79,80,84,5
+SH2025117,Male,Zambales,49,Senior High School,Discounted,Not Prepared,70,65,60,51,2
+AX2025001,Female,Camarines Sur,83,Bachelors,Standard,Prepared,65,81,81,95,6
+AD2025150,Female,Cagayan,43,PhD,Discounted,Not Prepared,59,70,65,70,8
+SH2025118,Female,Camarines Norte,75,Senior High School,Free,Not Prepared,64,62,68,96,10
+SH2025119,Female,Palawan,70,Senior High School,Discounted,Not Prepared,50,53,55,98,9
+AX2025001,Female,Sorsogon,94,Junior High School,Free,Prepared,69,79,81,63,7
+AS2025115,Male,Catanduanes,42,Associate,Free,Prepared,51,56,53,40,5
+SH2025120,Female,Nueva Ecija,84,Senior High School,Discounted,Prepared,68,80,76,91,7
+AX2025001,Female,Catanduanes,89,Junior High School,Free,Prepared,85,86,98,79,4
+AD2025151,Female,Masbate,35,PhD,Free,Prepared,65,70,74,44,7
+AS2025116,Female,Nueva Ecija,100,Associate,Free,Not Prepared,73,79,79,61,9
+AX2025001,Female,Bataan,64,Junior High School,Discounted,Not Prepared,62,67,67,62,3
+AD2025152,Male,Masbate,63,PhD,Free,Not Prepared,77,67,64,42,9
+AS2025117,Male,Quezon,40,Associate,Standard,Not Prepared,69,66,61,81,7
+AD2025153,Female,Rizal,66,PhD,Discounted,Not Prepared,43,60,58,65,9
+AD2025154,Male,Nueva Vizcaya,86,PhD,Discounted,Not Prepared,90,87,85,56,1
+AX2025001,Male,Marinduque,37,Junior High School,Standard,Not Prepared,74,77,73,45,4
+AS2025118,Male,Isabela,83,Associate,Free,Not Prepared,73,66,63,81,8
+AX2025001,Female,Tarlac,78,Junior High School,Standard,Not Prepared,55,71,69,70,3
+SH2025121,Female,Aurora,69,Senior High School,Standard,Not Prepared,65,69,67,86,10
+AD2025155,Male,Quirino,63,PhD,Free,Not Prepared,80,63,63,54,5
+AS2025119,Female,Oriental Mindoro,95,Associate,Standard,Prepared,50,60,60,86,0
+AX2025001,Female,Nueva Ecija,51,Junior High School,Free,Prepared,63,73,71,50,8
+AX2025001,Female,Catanduanes,89,Bachelors,Standard,Not Prepared,77,85,87,82,0
+AX2025001,Male,Tarlac,46,Junior High School,Free,Not Prepared,73,74,61,93,4
+AD2025156,Male,Occidental Mindoro,40,PhD,Standard,Prepared,81,72,77,98,3
+SH2025122,Female,Oriental Mindoro,45,Senior High School,Free,Not Prepared,66,76,68,53,2
+AD2025157,Male,Camarines Sur,46,PhD,Discounted,Not Prepared,52,57,50,82,5
+AX2025001,Female,Oriental Mindoro,35,Junior High School,Discounted,Not Prepared,69,78,76,89,1
+AD2025158,Female,Palawan,60,PhD,Discounted,Prepared,65,84,84,69,2
+SH2025123,Female,Palawan,71,Senior High School,Free,Prepared,69,77,78,81,4
+AX2025001,Female,La Union,35,Junior High School,Standard,Prepared,50,64,66,50,8
+AX2025001,Female,Sorsogon,46,Junior High School,Free,Prepared,73,78,76,59,1
+AS2025120,Female,Aurora,39,Associate,Discounted,Prepared,70,82,76,96,9
+AD2025159,Male,Bataan,79,PhD,Free,Not Prepared,81,75,78,75,7
+AX2025001,Male,Batanes,62,Junior High School,Discounted,Not Prepared,63,61,60,73,1
+SH2025124,Female,Laguna,57,Senior High School,Free,Not Prepared,67,72,74,54,10
+SH2025125,Male,Masbate,93,Senior High School,Discounted,Not Prepared,60,68,60,74,4
+SH2025126,Male,Ilocos Norte,32,Senior High School,Free,Not Prepared,62,55,54,90,6
+AS2025121,Female,Marinduque,78,Associate,Discounted,Prepared,29,40,44,52,7
+AX2025001,Male,Cagayan,39,Junior High School,Discounted,Prepared,62,66,68,79,0
+AM2025042,Female,Camarines Sur,92,Masters,Free,Prepared,94,99,100,50,5
+AX2025001,Male,Nueva Vizcaya,55,Junior High School,Standard,Prepared,85,75,68,78,0
+AD2025160,Male,Camarines Norte,32,PhD,Discounted,Not Prepared,77,78,73,52,1
+SH2025127,Male,Batangas,65,Senior High School,Standard,Not Prepared,53,58,44,91,0
+AX2025001,Male,Palawan,68,Junior High School,Free,Not Prepared,93,90,83,78,10
+AD2025161,Female,Oriental Mindoro,84,PhD,Discounted,Not Prepared,49,53,53,57,4
+AD2025162,Female,Nueva Ecija,49,PhD,Standard,Not Prepared,73,76,78,86,9
+AX2025001,Female,Ilocos Sur,100,Bachelors,Discounted,Prepared,66,74,81,96,8
+AD2025163,Female,Batangas,83,PhD,Free,Not Prepared,77,77,73,70,5
+AS2025122,Female,Zambales,63,Associate,Free,Not Prepared,49,63,56,45,10
+AX2025001,Female,Ilocos Norte,35,Junior High School,Discounted,Not Prepared,79,89,86,47,10
+AD2025164,Female,Tarlac,93,PhD,Discounted,Prepared,75,82,90,68,0
+AX2025001,Female,Quezon,76,Bachelors,Free,Not Prepared,59,72,70,96,0
+AD2025165,Female,Ilocos Sur,42,PhD,Discounted,Prepared,57,78,79,93,1
+SH2025128,Male,Batangas,74,Senior High School,Standard,Not Prepared,66,66,59,48,8
+AX2025001,Female,Tarlac,98,Bachelors,Discounted,Prepared,79,81,82,43,2
+AS2025123,Female,Ilocos Sur,53,Associate,Free,Not Prepared,57,67,72,58,0
+AX2025001,Male,Bulacan,66,Bachelors,Free,Prepared,87,84,87,44,4
+AX2025001,Female,Isabela,69,Junior High School,Free,Not Prepared,63,64,67,72,6
+AS2025124,Female,Laguna,35,Associate,Free,Prepared,59,63,64,48,5
+AX2025001,Male,Pampanga,97,Bachelors,Standard,Not Prepared,62,72,65,56,0
+SH2025129,Male,Isabela,82,Senior High School,Standard,Not Prepared,46,34,36,52,4
+AX2025001,Male,Occidental Mindoro,74,Junior High School,Discounted,Not Prepared,66,59,52,77,4
+SH2025130,Male,Oriental Mindoro,88,Senior High School,Discounted,Not Prepared,89,87,79,66,5
+AD2025166,Female,Romblon,33,PhD,Standard,Prepared,42,61,58,73,2
+AX2025001,Male,Laguna,80,Junior High School,Free,Prepared,93,84,90,54,4
+AS2025125,Female,Laguna,51,Associate,Standard,Prepared,80,85,85,77,6
+AX2025001,Female,Albay,43,Junior High School,Discounted,Not Prepared,98,100,99,79,4
+AM2025043,Male,Quezon,36,Masters,Discounted,Not Prepared,81,81,84,63,4
+AS2025126,Female,Rizal,82,Associate,Free,Prepared,60,70,74,85,4
+AD2025167,Female,Palawan,43,PhD,Standard,Prepared,76,94,87,65,9
+AD2025168,Male,Zambales,75,PhD,Standard,Prepared,73,78,72,53,9
+AD2025169,Female,Rizal,81,PhD,Standard,Prepared,96,96,99,96,2
+SH2025131,Female,Nueva Vizcaya,72,Senior High School,Free,Not Prepared,76,76,74,48,0
+AD2025170,Male,Albay,43,PhD,Discounted,Prepared,91,73,80,54,4
+AX2025001,Female,Ilocos Sur,69,Junior High School,Discounted,Not Prepared,62,72,70,74,8
+AS2025127,Male,Sorsogon,42,Associate,Free,Prepared,55,59,59,55,0
+AS2025128,Female,Romblon,49,Associate,Free,Prepared,74,90,88,80,2
+SH2025132,Male,Ilocos Norte,71,Senior High School,Discounted,Not Prepared,50,48,42,60,3
+AX2025001,Male,Pampanga,75,Junior High School,Free,Not Prepared,47,43,41,91,0
+AX2025001,Male,Rizal,64,Junior High School,Discounted,Prepared,81,74,71,67,0
+AD2025171,Female,Bataan,88,PhD,Free,Prepared,65,75,77,95,7
+AS2025129,Male,Occidental Mindoro,33,Associate,Discounted,Prepared,68,51,57,72,1
+SH2025133,Female,Aurora,46,Senior High School,Standard,Not Prepared,73,92,84,50,7
+AX2025001,Male,Isabela,95,Junior High School,Discounted,Not Prepared,53,39,37,63,6
+AD2025172,Female,Camarines Norte,83,PhD,Discounted,Prepared,68,77,80,44,9
+AS2025130,Male,Ilocos Sur,97,Associate,Standard,Not Prepared,55,46,43,43,9
+AX2025001,Female,Occidental Mindoro,64,Junior High School,Standard,Prepared,87,89,94,97,1
+AS2025131,Male,Sorsogon,81,Associate,Free,Not Prepared,55,47,44,77,5
+AX2025001,Female,Quezon,66,Junior High School,Discounted,Not Prepared,53,58,57,44,5
+AM2025044,Male,Pangasinan,62,Masters,Standard,Not Prepared,67,57,59,58,2
+AD2025173,Male,Zambales,30,PhD,Free,Not Prepared,92,79,84,73,10
+AX2025001,Female,Catanduanes,44,Junior High School,Free,Prepared,53,66,73,55,1
+AD2025174,Male,Ilocos Sur,84,PhD,Discounted,Not Prepared,81,71,73,48,0
+SH2025134,Male,Tarlac,65,Senior High School,Standard,Not Prepared,61,60,55,69,5
+AX2025001,Male,Aurora,78,Bachelors,Standard,Not Prepared,80,73,72,50,4
+AD2025175,Female,Quezon,89,PhD,Discounted,Not Prepared,37,57,56,95,10
+SH2025135,Female,Bataan,44,Senior High School,Standard,Not Prepared,81,84,82,57,8
+AD2025176,Female,Oriental Mindoro,90,PhD,Free,Prepared,59,73,72,45,0
+AX2025001,Male,Nueva Vizcaya,66,Junior High School,Free,Not Prepared,55,55,47,94,6
+AD2025177,Male,Nueva Vizcaya,33,PhD,Standard,Not Prepared,72,79,74,63,4
+SH2025136,Male,Cavite,92,Senior High School,Standard,Not Prepared,69,75,71,54,4
+AX2025001,Male,La Union,62,Junior High School,Standard,Not Prepared,69,64,68,94,1
+AX2025001,Female,Bataan,84,Bachelors,Discounted,Not Prepared,50,60,59,79,10
+AX2025001,Male,Nueva Vizcaya,31,Junior High School,Discounted,Prepared,87,84,86,92,2
+AS2025132,Male,Palawan,51,Associate,Free,Prepared,71,69,68,61,6
+AX2025001,Male,Laguna,47,Junior High School,Discounted,Not Prepared,68,72,65,77,5
+AM2025045,Male,Nueva Vizcaya,56,Masters,Free,Prepared,79,77,75,76,1
+AS2025133,Female,Marinduque,48,Associate,Standard,Prepared,77,90,85,69,5
+AD2025178,Male,Quirino,62,PhD,Free,Not Prepared,58,55,53,44,1
+AD2025179,Female,Batanes,66,PhD,Standard,Not Prepared,84,95,92,56,1
+AX2025001,Male,Romblon,81,Junior High School,Free,Not Prepared,55,58,52,50,1
+AX2025001,Male,Bataan,42,Bachelors,Discounted,Prepared,70,68,72,60,10
+AX2025001,Female,La Union,68,Junior High School,Standard,Prepared,52,59,65,64,2
+AX2025001,Male,Rizal,54,Junior High School,Free,Prepared,69,77,77,57,1
+SH2025137,Female,Bulacan,100,Senior High School,Standard,Not Prepared,53,72,64,62,3
+AS2025134,Female,Nueva Ecija,56,Associate,Discounted,Not Prepared,48,58,54,66,8
+AS2025135,Male,Ilocos Norte,74,Associate,Discounted,Prepared,78,81,86,82,5
+SH2025138,Female,Laguna,95,Senior High School,Discounted,Not Prepared,62,62,63,96,0
+AX2025001,Male,La Union,74,Junior High School,Standard,Not Prepared,60,63,59,76,7
+SH2025139,Female,Sorsogon,39,Senior High School,Discounted,Not Prepared,74,72,72,73,6
+SH2025140,Female,Camarines Norte,94,Senior High School,Discounted,Prepared,58,75,77,46,9
+SH2025141,Male,Laguna,82,Senior High School,Free,Prepared,76,62,60,51,2
+AS2025136,Female,Bulacan,69,Associate,Discounted,Not Prepared,68,71,75,71,0
+AX2025001,Male,Occidental Mindoro,91,Junior High School,Discounted,Not Prepared,58,60,57,95,4
+SH2025142,Male,Pampanga,71,Senior High School,Standard,Not Prepared,52,48,49,58,3
+AX2025001,Male,Sorsogon,80,Bachelors,Discounted,Not Prepared,75,73,74,97,9
+AS2025137,Female,Ilocos Sur,54,Associate,Standard,Prepared,52,67,72,99,7
+AX2025001,Female,Cagayan,81,Bachelors,Discounted,Not Prepared,62,78,79,46,0
+AX2025001,Male,Batangas,32,Junior High School,Discounted,Not Prepared,66,65,60,44,9
+AS2025138,Female,Occidental Mindoro,34,Associate,Standard,Not Prepared,49,58,55,98,0
+SH2025143,Female,Zambales,57,Senior High School,Discounted,Not Prepared,66,72,70,81,3
+AX2025001,Female,Camarines Sur,57,Junior High School,Discounted,Not Prepared,35,44,43,73,7
+AX2025001,Female,Occidental Mindoro,41,Junior High School,Discounted,Prepared,72,79,82,43,4
+AD2025180,Male,Romblon,66,PhD,Standard,Prepared,94,85,82,66,1
+AD2025181,Female,Quirino,97,PhD,Discounted,Not Prepared,46,56,57,86,5
+AM2025046,Female,Ilocos Norte,78,Masters,Standard,Not Prepared,77,90,84,44,4
+SH2025144,Female,Quezon,56,Senior High School,Free,Prepared,76,85,82,49,1
+AD2025182,Female,Ilocos Sur,84,PhD,Standard,Prepared,52,59,62,68,10
+AX2025001,Male,Cagayan,77,Bachelors,Free,Prepared,91,81,79,83,10
+AS2025139,Female,Occidental Mindoro,30,Associate,Discounted,Prepared,32,51,44,86,10
+AS2025140,Female,Catanduanes,92,Associate,Standard,Not Prepared,72,79,77,92,2
+AX2025001,Female,Rizal,95,Junior High School,Free,Not Prepared,19,38,32,42,8
+AD2025183,Male,Romblon,57,PhD,Standard,Not Prepared,68,65,61,53,6
+AM2025047,Female,Laguna,76,Masters,Discounted,Not Prepared,52,65,61,50,6
+SH2025145,Female,Palawan,78,Senior High School,Free,Not Prepared,48,62,60,73,10
+AX2025001,Female,Cagayan,51,Junior High School,Discounted,Not Prepared,60,66,70,85,5
+SH2025146,Male,Aurora,76,Senior High School,Discounted,Not Prepared,66,74,69,95,7
+AS2025141,Male,Marinduque,83,Associate,Standard,Prepared,89,84,77,95,3
+SH2025147,Female,Nueva Ecija,37,Senior High School,Standard,Not Prepared,42,52,51,90,7
+AD2025184,Female,Cavite,83,PhD,Standard,Prepared,57,68,73,86,3
+SH2025148,Male,Sorsogon,56,Senior High School,Discounted,Not Prepared,70,70,70,61,7
+AD2025185,Female,Pampanga,68,PhD,Free,Not Prepared,70,84,81,82,8
+AX2025001,Male,Ilocos Sur,44,Junior High School,Discounted,Not Prepared,69,60,54,67,2
+AD2025186,Female,Quirino,58,PhD,Free,Not Prepared,52,55,57,69,2
+AS2025142,Male,Marinduque,87,Associate,Free,Prepared,67,73,68,82,10
+AS2025143,Male,Sorsogon,43,Associate,Standard,Prepared,76,80,73,81,1
+AD2025187,Female,Camarines Norte,72,PhD,Standard,Not Prepared,87,94,95,96,9
+AX2025001,Female,Laguna,67,Junior High School,Discounted,Not Prepared,82,85,87,56,2
+AX2025001,Female,Romblon,46,Junior High School,Standard,Not Prepared,73,76,78,67,2
+AX2025001,Male,Sorsogon,66,Junior High School,Standard,Not Prepared,75,81,74,60,4
+AX2025001,Female,Occidental Mindoro,34,Junior High School,Standard,Not Prepared,64,74,75,84,4
+SH2025149,Female,Cavite,38,Senior High School,Standard,Not Prepared,41,45,40,64,1
+SH2025150,Male,Cavite,41,Senior High School,Discounted,Not Prepared,90,75,69,58,9
+AX2025001,Male,Batangas,35,Bachelors,Standard,Not Prepared,59,54,51,88,5
+AS2025144,Male,Masbate,93,Associate,Discounted,Not Prepared,51,31,36,55,4
+SH2025151,Male,Occidental Mindoro,62,Senior High School,Free,Not Prepared,45,47,49,62,5
+AM2025048,Female,Batanes,75,Masters,Discounted,Prepared,54,64,67,49,0
+AS2025145,Male,Quirino,50,Associate,Standard,Prepared,87,84,76,59,4
+SH2025152,Female,Laguna,87,Senior High School,Standard,Not Prepared,72,80,83,63,8
+AS2025146,Male,Camarines Sur,96,Associate,Free,Prepared,94,86,87,78,9
+AX2025001,Female,Pampanga,50,Bachelors,Standard,Not Prepared,45,59,64,72,1
+AX2025001,Male,Catanduanes,36,Bachelors,Discounted,Prepared,61,70,76,88,0
+SH2025153,Female,Marinduque,53,Senior High School,Free,Not Prepared,60,72,68,65,9
+AS2025147,Female,Albay,46,Associate,Discounted,Not Prepared,77,91,88,49,10
+AS2025148,Female,Ilocos Sur,85,Associate,Standard,Prepared,85,90,92,100,8
+AX2025001,Female,Sorsogon,93,Bachelors,Discounted,Not Prepared,78,90,93,78,9
+AX2025001,Male,Albay,59,Junior High School,Free,Prepared,49,52,51,46,8
+SH2025154,Female,Sorsogon,68,Senior High School,Free,Not Prepared,71,87,82,62,8
+AS2025149,Female,Nueva Ecija,65,Associate,Discounted,Not Prepared,48,58,52,87,5
+SH2025155,Male,Masbate,80,Senior High School,Standard,Not Prepared,62,67,58,50,7
+AD2025188,Female,Cagayan,43,PhD,Free,Prepared,56,68,70,54,10
+AS2025150,Female,Ilocos Sur,46,Associate,Discounted,Not Prepared,65,69,76,40,0
+AS2025151,Female,Cavite,48,Associate,Discounted,Prepared,69,86,81,100,9
+AS2025152,Male,Albay,63,Associate,Standard,Not Prepared,68,54,53,61,3
+AX2025001,Female,Quezon,61,Junior High School,Free,Not Prepared,61,60,57,77,0
+AX2025001,Female,Camarines Sur,83,Bachelors,Standard,Prepared,74,86,89,95,7
+AX2025001,Male,Pangasinan,65,Bachelors,Free,Not Prepared,64,60,58,40,0
+SH2025156,Female,Masbate,94,Senior High School,Standard,Prepared,77,82,89,53,2
+AX2025001,Male,Nueva Ecija,51,Junior High School,Discounted,Not Prepared,58,50,45,41,3
+SH2025157,Female,Marinduque,47,Senior High School,Free,Prepared,60,64,74,89,7
+SH2025158,Male,Nueva Vizcaya,97,Senior High School,Standard,Not Prepared,73,64,57,100,5
+SH2025159,Female,Batanes,83,Senior High School,Standard,Prepared,75,82,79,43,9
+AD2025189,Male,Masbate,80,PhD,Standard,Prepared,58,57,53,61,6
+AD2025190,Female,Nueva Ecija,96,PhD,Standard,Not Prepared,66,77,73,49,7
+SH2025160,Female,Cavite,64,Senior High School,Free,Not Prepared,39,52,46,61,1
+AS2025153,Male,Ilocos Norte,46,Associate,Free,Not Prepared,64,58,51,63,9
+SH2025161,Female,Rizal,82,Senior High School,Discounted,Prepared,23,44,36,98,10
+AX2025001,Male,Camarines Norte,63,Junior High School,Free,Prepared,74,77,76,81,7
+AS2025154,Female,Batanes,40,Associate,Discounted,Prepared,40,65,64,85,2
+AM2025049,Male,Aurora,97,Masters,Standard,Not Prepared,90,85,84,87,6
+AM2025050,Male,Aurora,30,Masters,Standard,Prepared,91,85,85,45,2
+SH2025162,Male,Tarlac,79,Senior High School,Discounted,Not Prepared,64,54,50,52,6
+SH2025163,Female,Bulacan,85,Senior High School,Standard,Not Prepared,59,72,68,68,10
+AD2025191,Male,Ilocos Norte,58,PhD,Discounted,Not Prepared,80,75,69,79,1
+AM2025051,Male,Cagayan,75,Masters,Discounted,Not Prepared,71,67,67,81,9
+SH2025164,Female,Bataan,39,Senior High School,Discounted,Not Prepared,61,68,63,86,5
+AX2025001,Female,Batangas,90,Junior High School,Discounted,Not Prepared,87,85,93,54,2
+AS2025155,Male,Romblon,58,Associate,Discounted,Not Prepared,82,67,61,60,2
+AS2025156,Male,Pampanga,37,Associate,Standard,Not Prepared,62,64,55,74,8
+AX2025001,Female,Camarines Sur,58,Bachelors,Standard,Not Prepared,97,97,96,69,6
+AX2025001,Male,Marinduque,84,Junior High School,Standard,Not Prepared,75,68,65,77,4
+AX2025001,Female,Occidental Mindoro,45,Bachelors,Free,Not Prepared,65,79,81,99,9
+SH2025165,Male,Camarines Sur,80,Senior High School,Free,Prepared,52,49,46,56,6
+AD2025192,Male,Aurora,48,PhD,Discounted,Not Prepared,87,73,72,78,8
+AD2025193,Female,Occidental Mindoro,60,PhD,Standard,Not Prepared,53,62,53,74,0
+AM2025052,Female,Pangasinan,85,Masters,Free,Not Prepared,81,86,87,40,6
+AX2025001,Male,La Union,65,Bachelors,Discounted,Prepared,39,42,38,95,5
+AX2025001,Female,Batanes,45,Junior High School,Free,Prepared,71,71,80,94,9
+AD2025194,Male,Nueva Ecija,71,PhD,Discounted,Not Prepared,97,93,91,55,8
+AX2025001,Male,La Union,72,Junior High School,Free,Prepared,82,82,88,56,0
+SH2025166,Male,Marinduque,44,Senior High School,Discounted,Not Prepared,59,53,52,95,3
+AD2025195,Male,Zambales,30,PhD,Free,Not Prepared,61,42,41,41,8
+AD2025196,Male,Pangasinan,41,PhD,Standard,Prepared,78,74,72,45,3
+AD2025197,Male,Marinduque,52,PhD,Standard,Not Prepared,49,51,51,63,9
+SH2025167,Male,Bataan,67,Senior High School,Discounted,Not Prepared,59,58,47,74,2
+AX2025001,Female,Pangasinan,90,Junior High School,Standard,Prepared,70,72,76,58,8
+AD2025198,Male,Albay,36,PhD,Standard,Prepared,82,84,78,57,1
+AD2025199,Male,Aurora,68,PhD,Discounted,Not Prepared,90,90,82,76,3
+AX2025001,Female,Bataan,93,Bachelors,Free,Not Prepared,43,62,61,40,5
+AX2025001,Male,Batangas,85,Junior High School,Free,Not Prepared,80,64,66,54,1
+AX2025001,Male,La Union,54,Junior High School,Discounted,Not Prepared,81,82,84,92,7
+AS2025157,Male,Nueva Vizcaya,80,Associate,Discounted,Not Prepared,57,61,54,75,7
+AS2025158,Female,Tarlac,77,Associate,Discounted,Not Prepared,59,72,80,96,0
+AD2025200,Female,Rizal,68,PhD,Discounted,Not Prepared,64,76,74,52,2
+AX2025001,Male,Ilocos Norte,61,Bachelors,Standard,Prepared,63,64,66,55,9
+AX2025001,Female,Camarines Sur,81,Bachelors,Free,Prepared,71,70,70,50,8
+SH2025168,Female,Aurora,65,Senior High School,Discounted,Not Prepared,64,73,71,53,4
+AX2025001,Male,Tarlac,57,Bachelors,Discounted,Not Prepared,55,46,44,69,5
+AD2025201,Female,Cavite,91,PhD,Free,Not Prepared,51,51,54,49,3
+AD2025202,Female,Occidental Mindoro,56,PhD,Free,Prepared,62,76,80,81,9
+AD2025203,Female,Occidental Mindoro,61,PhD,Free,Prepared,93,100,95,62,1
+SH2025169,Male,Romblon,37,Senior High School,Free,Not Prepared,54,72,59,75,10
+AX2025001,Female,Bulacan,63,Junior High School,Free,Not Prepared,69,65,74,75,7
+SH2025170,Male,Ilocos Sur,33,Senior High School,Discounted,Not Prepared,44,51,48,96,10
+AX2025001,Female,La Union,52,Junior High School,Discounted,Prepared,86,85,91,50,5
+AD2025204,Female,Pampanga,72,PhD,Free,Not Prepared,85,92,85,87,4
+AM2025053,Female,Ilocos Norte,34,Masters,Free,Not Prepared,50,67,73,71,8
+AS2025159,Male,Batangas,68,Associate,Free,Prepared,88,74,75,99,0
+AD2025205,Female,Tarlac,96,PhD,Discounted,Not Prepared,59,62,69,49,4
+AS2025160,Female,Pangasinan,65,Associate,Discounted,Not Prepared,32,34,38,66,5
+SH2025171,Male,Bataan,51,Senior High School,Free,Not Prepared,36,29,27,60,4
+AS2025161,Female,Isabela,33,Associate,Free,Prepared,63,78,79,100,5
+AD2025206,Male,Cavite,46,PhD,Free,Prepared,67,54,63,74,5
+AS2025162,Female,Rizal,84,Associate,Standard,Prepared,65,78,82,73,6
+AM2025054,Male,Quirino,75,Masters,Standard,Not Prepared,85,84,89,90,3
+AM2025055,Female,Ilocos Sur,84,Masters,Free,Not Prepared,73,78,74,90,10
+SH2025172,Female,Nueva Vizcaya,73,Senior High School,Free,Prepared,34,48,41,40,7
+AX2025001,Female,Camarines Norte,52,Bachelors,Standard,Prepared,93,100,100,70,6
+AS2025163,Female,Bataan,43,Associate,Standard,Not Prepared,67,84,84,100,8
+AX2025001,Male,Pangasinan,86,Junior High School,Standard,Not Prepared,88,77,77,86,6
+SH2025173,Male,Oriental Mindoro,87,Senior High School,Discounted,Not Prepared,57,48,51,50,2
+AX2025001,Female,Batangas,75,Junior High School,Discounted,Prepared,79,84,91,70,2
+AX2025001,Female,Zambales,47,Bachelors,Free,Not Prepared,67,75,72,99,7
+AX2025001,Male,Masbate,69,Bachelors,Standard,Prepared,70,64,70,83,4
+AX2025001,Male,Ilocos Norte,56,Bachelors,Standard,Not Prepared,50,42,48,54,3
+AX2025001,Female,Rizal,80,Junior High School,Free,Not Prepared,69,84,82,76,7
+AX2025001,Female,Bataan,73,Bachelors,Free,Prepared,52,61,66,68,5
+AX2025001,Female,Isabela,85,Bachelors,Free,Prepared,47,62,66,41,1
+AD2025207,Female,Palawan,75,PhD,Standard,Not Prepared,46,61,55,67,3
+AX2025001,Female,Pampanga,76,Junior High School,Standard,Not Prepared,68,70,66,79,10
+AX2025001,Male,Ilocos Sur,36,Bachelors,Free,Prepared,100,100,100,61,3
+SH2025174,Female,Quezon,55,Senior High School,Standard,Not Prepared,44,61,52,95,5
+AD2025208,Female,Pangasinan,59,PhD,Standard,Prepared,57,77,80,65,5
+AX2025001,Male,Quirino,94,Junior High School,Free,Prepared,91,96,91,41,0
+SH2025175,Male,Masbate,62,Senior High School,Free,Not Prepared,69,70,67,45,7
+SH2025176,Female,Cagayan,38,Senior High School,Free,Not Prepared,35,53,46,75,5
+SH2025177,Male,Cavite,61,Senior High School,Discounted,Not Prepared,72,66,66,42,2
+AD2025209,Female,Ilocos Norte,58,PhD,Free,Not Prepared,54,65,65,97,8
+SH2025178,Male,Quirino,41,Senior High School,Standard,Not Prepared,74,70,69,59,1
+AS2025164,Male,Pangasinan,85,Associate,Standard,Prepared,74,64,60,47,10
+AD2025210,Male,Cavite,76,PhD,Free,Not Prepared,64,56,52,60,7
+SH2025179,Female,Sorsogon,41,Senior High School,Discounted,Prepared,65,61,71,90,9
+AD2025211,Male,Camarines Norte,88,PhD,Free,Prepared,46,43,44,44,2
+AS2025165,Female,Occidental Mindoro,99,Associate,Discounted,Not Prepared,48,56,51,84,4
+AX2025001,Male,Nueva Vizcaya,73,Junior High School,Standard,Prepared,67,74,70,49,5
+AX2025001,Male,Nueva Vizcaya,95,Junior High School,Standard,Not Prepared,62,57,62,64,9
+AD2025212,Male,Oriental Mindoro,52,PhD,Discounted,Prepared,61,71,73,65,5
+AX2025001,Male,Cavite,88,Bachelors,Standard,Prepared,70,75,74,87,3
+AD2025213,Male,Laguna,93,PhD,Discounted,Prepared,98,87,90,72,2
+AX2025001,Male,Batanes,67,Junior High School,Free,Not Prepared,70,63,58,62,3
+AD2025214,Male,Nueva Ecija,83,PhD,Standard,Not Prepared,67,57,53,82,0
+SH2025180,Female,Tarlac,67,Senior High School,Discounted,Not Prepared,57,58,57,95,3
+AX2025001,Male,Albay,35,Junior High School,Discounted,Prepared,85,81,85,64,0
+AS2025166,Male,Pampanga,98,Associate,Standard,Prepared,77,68,69,97,0
+AM2025056,Male,Ilocos Sur,46,Masters,Standard,Prepared,72,66,72,71,9
+AM2025057,Female,Camarines Norte,90,Masters,Discounted,Not Prepared,78,91,96,72,5
+SH2025181,Male,Zambales,81,Senior High School,Free,Not Prepared,81,66,64,71,4
+AS2025167,Male,Ilocos Sur,61,Associate,Free,Prepared,61,62,61,49,10
+SH2025182,Female,Camarines Sur,41,Senior High School,Discounted,Not Prepared,58,68,61,94,3
+AD2025215,Female,Masbate,79,PhD,Free,Not Prepared,54,61,58,68,10
+SH2025183,Male,Marinduque,70,Senior High School,Free,Not Prepared,82,82,80,55,2
+AX2025001,Female,Palawan,76,Junior High School,Standard,Not Prepared,49,58,60,44,0
+AS2025168,Male,Sorsogon,87,Associate,Standard,Prepared,49,50,52,77,5
+SH2025184,Female,Occidental Mindoro,96,Senior High School,Discounted,Prepared,57,75,73,61,1
+SH2025185,Male,Batangas,86,Senior High School,Free,Not Prepared,94,73,71,44,7
+AX2025001,Female,Camarines Sur,47,Junior High School,Discounted,Prepared,75,77,83,78,9
+AS2025169,Female,Occidental Mindoro,38,Associate,Free,Not Prepared,74,74,72,87,4
+SH2025186,Male,Bataan,45,Senior High School,Discounted,Prepared,58,52,54,67,6
+AX2025001,Female,Pampanga,42,Junior High School,Discounted,Not Prepared,62,69,69,69,9
+AD2025216,Male,Batangas,91,PhD,Standard,Not Prepared,72,57,62,73,1
+AX2025001,Male,Nueva Ecija,86,Junior High School,Free,Not Prepared,84,87,81,46,7
+AM2025058,Female,Tarlac,79,Masters,Discounted,Not Prepared,92,100,100,83,1
+SH2025187,Female,Nueva Vizcaya,53,Senior High School,Discounted,Not Prepared,45,63,59,89,3
+SH2025188,Male,Ilocos Norte,42,Senior High School,Standard,Not Prepared,75,81,71,79,0
+AX2025001,Female,Pampanga,71,Junior High School,Discounted,Not Prepared,56,58,64,99,4
+AS2025170,Female,Quezon,78,Associate,Discounted,Not Prepared,48,54,53,45,8
+AD2025217,Female,Pampanga,98,PhD,Discounted,Not Prepared,100,100,100,81,0
+AS2025171,Female,Rizal,95,Associate,Free,Prepared,65,76,75,86,8
+AX2025001,Male,Nueva Ecija,67,Junior High School,Discounted,Not Prepared,72,57,58,82,10
+AX2025001,Female,Sorsogon,82,Junior High School,Standard,Not Prepared,62,70,72,82,7
+AS2025172,Male,Laguna,88,Associate,Free,Prepared,66,68,64,48,5
+AX2025001,Male,Palawan,81,Junior High School,Standard,Not Prepared,63,63,60,50,6
+AD2025218,Female,Palawan,72,PhD,Discounted,Not Prepared,68,76,67,74,2
+AX2025001,Female,Ilocos Sur,88,Bachelors,Free,Not Prepared,75,84,80,100,0
+AX2025001,Female,Sorsogon,32,Bachelors,Free,Not Prepared,89,100,100,90,4
+AS2025173,Male,Bulacan,40,Associate,Discounted,Prepared,78,72,69,43,1
+SH2025189,Female,Batangas,40,Senior High School,Free,Prepared,53,50,60,80,4
+AX2025001,Female,Albay,88,Junior High School,Free,Not Prepared,49,65,61,53,7
+AX2025001,Female,La Union,43,Junior High School,Standard,Not Prepared,54,63,67,57,10
+AX2025001,Female,Pangasinan,76,Junior High School,Standard,Prepared,64,82,77,62,8
+AX2025001,Male,Pampanga,75,Junior High School,Discounted,Prepared,60,62,60,89,1
+AD2025219,Male,Catanduanes,70,PhD,Discounted,Not Prepared,62,65,58,68,2
+SH2025190,Male,Sorsogon,30,Senior High School,Standard,Prepared,55,41,48,84,2
+AD2025220,Female,Camarines Sur,88,PhD,Discounted,Not Prepared,91,95,94,86,0
+SH2025191,Female,Palawan,32,Senior High School,Discounted,Not Prepared,8,24,23,52,7
+AS2025174,Male,Camarines Norte,50,Associate,Free,Not Prepared,81,78,78,86,5
+AS2025175,Male,Cavite,41,Associate,Free,Prepared,79,85,86,99,7
+AX2025001,Female,Batangas,85,Junior High School,Discounted,Prepared,78,87,91,42,10
+AS2025176,Female,Camarines Norte,99,Associate,Standard,Not Prepared,74,75,82,84,8
+SH2025192,Male,Tarlac,100,Senior High School,Free,Not Prepared,57,51,54,40,4
+AD2025221,Female,Nueva Vizcaya,51,PhD,Standard,Not Prepared,40,59,51,48,2
+AS2025177,Male,Occidental Mindoro,40,Associate,Free,Prepared,81,75,76,91,4
+AS2025178,Female,Pampanga,33,Associate,Standard,Not Prepared,44,45,45,74,4
+AX2025001,Female,Pangasinan,44,Junior High School,Standard,Prepared,67,86,83,49,4
+SH2025193,Male,Bataan,60,Senior High School,Standard,Prepared,86,81,75,74,2
+AS2025179,Female,Cagayan,76,Associate,Discounted,Prepared,65,82,78,53,10
+AD2025222,Female,Nueva Vizcaya,85,PhD,Standard,Not Prepared,55,76,76,94,9
+AX2025001,Female,Romblon,92,Bachelors,Standard,Not Prepared,62,72,74,47,3
+SH2025194,Male,Pampanga,59,Senior High School,Discounted,Not Prepared,63,63,62,82,8
+AM2025059,Female,Romblon,92,Masters,Free,Prepared,88,99,95,79,9
+SH2025195,Male,Nueva Ecija,52,Senior High School,Standard,Not Prepared,62,55,55,70,8
+SH2025196,Female,Albay,82,Senior High School,Free,Prepared,59,71,65,57,1
+AX2025001,Female,Rizal,56,Junior High School,Discounted,Prepared,68,78,77,71,7
+AX2025001,Female,Quezon,91,Junior High School,Standard,Not Prepared,77,86,86,68,7
