@@ -10,7 +10,12 @@ print("Starting Flask ML Backend...")
 print("=" * 60)
 
 app = Flask(__name__)
-CORS(app)  
+CORS(app, origins=[
+    "https://student-performance-predictor-web-hk1z4k395-kryzlkates-projects.vercel.app",
+    "https://student-performance-predictor-web-app-kryzlkates-projects.vercel.app",
+    "http://localhost:8081",
+    "http://localhost:19006"
+]) 
 
 @app.route('/test', methods=['GET'])
 def test_connection():
