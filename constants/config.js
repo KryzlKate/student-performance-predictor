@@ -6,7 +6,7 @@ const URLS = {
     android: 'http://192.168.1.9:5000',  
     simulator: 'http://localhost:5000',  
     emulator: 'http://10.0.2.2:5000',
-    web: 'http://localhost:5000', // ADD THIS for web
+    web: 'http://localhost:5000',
   },
   production: {
     default: 'https://merry-comfort-production.up.railway.app', 
@@ -27,24 +27,18 @@ export const getApiUrl = () => {
     return URLS.production.default;
   }
 
-  // Handle web platform
   if (Platform.OS === 'web') {
     return URLS.development.web;
   }
 
-  // Handle iOS
   if (Platform.OS === 'ios') {
-    // Simplified: For iOS, always use network IP
     return URLS.development.ios;
   }
-  
-  // Handle Android
+
   if (Platform.OS === 'android') {
-    // If developing on Windows, likely using Android emulator
-    return URLS.development.emulator; // Use 10.0.2.2 for Android emulator
+    return URLS.development.emulator; 
   }
-  
-  // Default fallback
+
   return URLS.development.android; 
 };
 
