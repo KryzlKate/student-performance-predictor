@@ -8,7 +8,7 @@
     "scheme": "student-perf-predictor",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash-icon.png",
+      "image": "./assets/images/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -32,10 +32,6 @@
       }
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
       "package": "com.student.performancepredictor",
       "permissions": [
         "INTERNET"
@@ -43,7 +39,7 @@
       "usesCleartextTraffic": true
     },
     "web": {
-      "favicon": "./assets/images/favicon.png",
+      "favicon": "./assets/images/logo.png",
       "bundler": "metro",
       "output": "single"
     },
